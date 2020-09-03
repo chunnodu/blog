@@ -1,0 +1,3 @@
+[submodule "pelican-minimal"]
+	path = pelican-minimal
+	url = git@github.com:www.github.com/chunnodu/blog
