@@ -21,8 +21,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Social widget
-SOCIAL = (('You can add links in your config file', 'https://twitter.com/geoponge'),
-          ('Another social link', 'https://github.com/chunnodu'),)
+#SOCIAL = ((<i class="fab fa-twitter"></i>, 'https://twitter.com/geoponge'),
+#         (<i class="fab fa-github"></i>, 'https://github.com/chunnodu'),)
 
 DEFAULT_PAGINATION = 7
 
