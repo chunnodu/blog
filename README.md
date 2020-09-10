@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-Source code to blog seen on www.chunnodu.com
-
-Built with Pelican, a static site generator for python.
-=======
 ### Hi there 👋
 
 <!--
@@ -19,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
->>>>>>> 29395cac9033fae82ddb13a2ffdb116a28ca0d2f
