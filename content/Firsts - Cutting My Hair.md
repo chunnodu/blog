@@ -16,4 +16,4 @@ Halfway into it I realize that any mistakes will have me looking like a mad man 
 Moore’s law holds up because as I round up, the comb slips off and the naked blade runs through my hair, leaving a stroke that’s lower than everything else. A close look shows this, and some other weird looking patches. 
 
 Yesterday I cut my hair for the first time. It wasn’t perfect & the worst almost happened, but I learned how to get better. Sneaky feeling: this might be a great way to figure stuff out. 
-Here’s what Shia LaBeouf says(https://www.youtube.com/watch?v=ZXsQAXx_ao0). I think I agree.
+Here’s what [Shia LaBeouf says](https://www.youtube.com/watch?v=ZXsQAXx_ao0). I think I agree.

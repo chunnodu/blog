@@ -12,7 +12,3 @@ This is a digital log.
 - Writing
 - Muay Thai
 - Mindmapping
-
-#### Stuff I like Using
-- Moleskine 
-- IA Writer
