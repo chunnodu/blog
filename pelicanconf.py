@@ -7,7 +7,7 @@ SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
 
-THEME = 'pelican-minimal'
+THEME = 'themes/pelican-minimal'
 
 TIMEZONE = 'Europe/Paris'
 
