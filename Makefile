@@ -24,7 +24,7 @@ endif
 SERVER ?= "0.0.0.0"
 
 PORT ?= 0
-ifneq ($(PORT), 0)
+ifneq ($(PORT), 8000)
 	PELICANOPTS += -p $(PORT)
 endif
 
