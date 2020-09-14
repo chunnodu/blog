@@ -44,7 +44,8 @@
       <p>{{ TAGLINE }}</p>
       <ul>
         {% for name, link in MENUITEMS %}
-        <li><a href="{{ link }}">{{ name }}</a></li>
+        <!-- <li><a href="{{ link }}">{{ name }}</a></li> -->
+        <li><a href="https://github.com/chunnodu">Github<i class="fa fa-github"></i> </a></li>
         {% endfor %}
         {% if DISPLAY_PAGES_ON_MENU %}{% for p in pages %}
         <li><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
@@ -53,7 +54,6 @@
       <ul2>
 	{% for icon, name, link in SOCIAL_EMAIL %}
         <li><a href="{{ link }}"><i class="fa {{icon}}"></i> {{ name }}</a></li>
-        <li><a href="https://github.com/chunnodu"><i class="fab fa-github"></i> Github</a></li>
         {% endfor %}
       </ul2>
     </div>

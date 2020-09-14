@@ -12,6 +12,9 @@ THEME = 'themes/pelican-minimal'
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'en'
+DEFAULT_CATEGORY = 'notes'
+
+SUMMARY_MAX_LENGTH = 20
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -21,8 +24,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Social widget
-#SOCIAL = ((<i class="fab fa-twitter"></i>, 'https://twitter.com/geoponge'),
-#         (<i class="fab fa-github"></i>, 'https://github.com/chunnodu'),)
+#SOCIAL = (Twitter, 'https://twitter.com/geoponge',<i class="fab fa-twitter"></i>)
+#         (Github, 'https://github.com/chunnodu',<i class="fab fa-github"></i>)
 
 DEFAULT_PAGINATION = 7
 
