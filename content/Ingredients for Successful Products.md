@@ -1,7 +1,6 @@
 Title: What Ingredients Make Successful Products
-
-Date:2016-10-20
-Category: product management
+Date: 2016-10-20
+Category: Product Management
 
 Steve jobs famously spoke about the tremendous amount of craftsmanship needed to make a great product. Over the years I've remained curious about what ingredients create successful products. 
 
@@ -17,4 +16,4 @@ Here's what I think from practice and observation:
 
 5) a designers mind set, with the demonstrated ability to synthesize these attributes and create new solutions problems
 
-These themes have become constant throughout my career, as I have deliberately sought traditional and non-traditional means to hone these skills. 
+These themes have become constant throughout my career, as I deliberately seek traditional and non-traditional means to hone these skills. 

@@ -1,6 +1,6 @@
 Title: On Firsts: Cutting my Hair
 Date: 2016-08-11
-Category: notes
+Category: Notes
 
 
 

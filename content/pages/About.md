@@ -2,9 +2,7 @@ Title: About Me
 Date: 2020-08-28 21:38
 
 Hi. I'm a business technologist who designs, develops and manages 
-business information systems.
-
-My research focuses on commercial applications of information systems in sub-saharan Africa.
+business information systems. My research focuses on commercial applications of information systems in sub-saharan Africa.
 
 This is a digital log. 
 
@@ -15,7 +13,7 @@ I bring clarity of thought and quality execution to new product development. Her
 
 ### Stuff I Like Doing
 - Reading
-- Writing{category:Notes}
+- Writing
 - Muay Thai
 - Mindmapping
 

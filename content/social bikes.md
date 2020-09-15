@@ -1,6 +1,6 @@
 Title: Social bikes
 Date: 2018-06-1
-category: notes
+category: Notes
 
 I was in New Orleans for a wedding and noticed the blue bikes just like in New York, D.C. and the University of Virginia.
 
