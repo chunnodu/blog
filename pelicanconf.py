@@ -3,7 +3,7 @@
 
 AUTHOR = 'Chu Nnodu'
 SITENAME = 'Digital Log'
-SITEURL = 'http://localhost:8000'
+SITEURL = 'http://chunnodu.com'
 
 PATH = 'content'
 
