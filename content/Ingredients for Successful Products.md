@@ -6,14 +6,14 @@ Steve jobs famously spoke about the tremendous amount of craftsmanship needed to
 
 Here's what I think from practice and observation:
 
-1) thorough understanding of strategy, business models and how to create and capture value
+1. thorough understanding of strategy, business models and how to create and capture value
 
-2) strong research and analysis skills to dive deep into problem areas and unlock new knowledge
+2. strong research and analysis skills to dive deep into problem areas and unlock new knowledge
 
-3) market/business intelligence skills to spot patterns and extract useful insights from data
+3. market/business intelligence skills to spot patterns and extract useful insights from data
 
-4) intellectual curiosity: knowing how to keep an open mind in the constant search for better ways to solve a problem
+4. intellectual curiosity: knowing how to keep an open mind in the constant search for better ways to solve a problem
 
-5) a designers mind set, with the demonstrated ability to synthesize these attributes and create new solutions problems
+5. a designers mind set, with the demonstrated ability to synthesize these attributes and create new solutions problems
 
-These themes have become constant throughout my career, as I deliberately seek traditional and non-traditional means to hone these skills. 
+My approach over the last decade has been to deliberately seek traditional and non-traditional means to hone these skills. 

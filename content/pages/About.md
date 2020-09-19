@@ -12,8 +12,8 @@ I bring clarity of thought and quality execution to new product development. Her
 
 
 ### Stuff I Like Doing
-- Reading
-- Writing
+- Reading{filename}Reading List 2020.md
+- Writing{category}Notes
 - Muay Thai
 - Mindmapping
 
