@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = 'Chu Nnodu'
-SITENAME = 'Chu's Digital Log'
-SITEURL = 'https://chunnodu.com'
+SITENAME = 'Chu\'s Digital Log'
+SITEURL = 'https://127.0.0.1:8000'
 
 PATH = 'content'
 
