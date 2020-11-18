@@ -1,13 +1,13 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*- #
+# -*- coding: utf-8 -*- 
 
 AUTHOR = 'Chu Nnodu'
 SITENAME = 'Chu\'s Digital Log'
-SITEURL = 'https://127.0.0.1:8000'
+SITEURL = 'http://127.0.0.1:8000'
 
 PATH = 'content'
 
-THEME = 'themes/pelican-minimal'
+THEME = 'pelican-minimal'
 
 TIMEZONE = 'Europe/Paris'
 
