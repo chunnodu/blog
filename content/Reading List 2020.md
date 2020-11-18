@@ -3,12 +3,13 @@ Date: 2020-09-10
 Category: Reading
 
 Thanks to the pandemic and a personal desire to write more this year, I started by doing a lot of reading. 
+Here is the run down of books I'm engaging with this year. If I make it to the end i'll be very satisfied. 
 
-Here is the run down of books I'm engaging with this year. If I make it to the end i'll be very satisfied.
+**Update:** It's November now, and I made good progress so look out for short summaries coming soon.
 
 (a) = audiobook
 
-## So Far, I've 'Read'
+### So Far, I've 'Read'
 
 1. Atomic Habits
 2. AI Super Powers(a) - Kai Fu Lee
@@ -25,19 +26,19 @@ Here is the run down of books I'm engaging with this year. If I make it to the e
 13. The Courage to be Disliked(a)
 14. Richard Hittleman's Yoga
 15. 9 Lies about work(a)
+16. The Two Kinds of Life - E.W Kenyon
+17. Selling is Simple - Fred Herman (1970)
 
-## In Progress   
-16. Selling is Simple - Fred Herman (1970)
-17. Semantic Web for the Working Ontologist
-18. The Toyota way
+### In Progress   
+-  Semantic Web for the Working Ontologist
+-  The Toyota way
 
-## Still in the Queue
+### Still in the Queue
 
-19. Everybody Writes - Ann Handley
-20. African Fractals - Ron Eglash
-21. The Two Kinds of Life - E.W Kenyon
-22. Realtime: Making Digital China
-23. Traction
-24. Observational Sketching
-25. Read this if you want to take great photographs of places
-26. Read this if you want to take great photographs of people
+- Everybody Writes - Ann Handley
+- African Fractals - Ron Eglash
+- Realtime: Making Digital China
+- Traction
+- Observational Sketching
+- Read this if you want to take great photographs of places
+- Read this if you want to take great photographs of people

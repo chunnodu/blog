@@ -4,7 +4,7 @@ Title: Resume
 
 - **Business Systems Analyst/ System Engineer** | Fortune 500 retailer, 2018 - 2020
 - **Data Analytics Consultant** | Top 10 US Market Research company, 2017 - 2018
-- **Spatial Business Intelligence Manager** | Geographic Information Systems Research org, 2016 - 2017 
+- **Spatial Business Intelligence Manager** | Geographic Information Systems center, 2016 - 2017 
 - **Business Data Analyst** | Mortgage-backed Securitizer, 2015
 - **Independent Consultant** at [Ajared](www.ajarged.ng), 2013 - 2015
 - **Business Research Analyst** | Boutique Innovation Consulting firm, 2011 - 2013
