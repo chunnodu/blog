@@ -3,13 +3,11 @@ Date: 2020-09-10
 Category: Reading
 
 Thanks to the pandemic and a personal desire to write more this year, I started by doing a lot of reading. 
-Here is the run down of books I'm engaging with this year. If I make it to the end i'll be very satisfied. 
+Here is the run down of my booklist this year. Making it to the end will leave me very satisfied. 
 
-**Update:** It's November now, and I made good progress so look out for short summaries coming soon.
+**Update:** It's November now and I made good progress, so look out for short summaries coming soon.
 
-(a) = audiobook
-
-### So Far, I've 'Read'
+### So Far, I've 'Read'*
 
 1. Atomic Habits
 2. AI Super Powers(a) - Kai Fu Lee
@@ -28,6 +26,10 @@ Here is the run down of books I'm engaging with this year. If I make it to the e
 15. 9 Lies about work(a)
 16. The Two Kinds of Life - E.W Kenyon
 17. Selling is Simple - Fred Herman (1970)
+18. Meditation - Jim Downing
+19. Autobiography of Malcom X (a)
+
+*(a) = audiobook
 
 ### In Progress   
 -  Semantic Web for the Working Ontologist
@@ -42,3 +44,4 @@ Here is the run down of books I'm engaging with this year. If I make it to the e
 - Observational Sketching
 - Read this if you want to take great photographs of places
 - Read this if you want to take great photographs of people
+

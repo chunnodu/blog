@@ -3,7 +3,7 @@
 
 AUTHOR = 'Chu Nnodu'
 SITENAME = 'Chu\'s Digital Log'
-SITEURL = 'http://localhost:8000'
+#SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
 
@@ -24,8 +24,11 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Social widget
-#SOCIAL = (Twitter, 'https://twitter.com/geoponge',<i class="fab fa-twitter"></i>)
-#         (Github, 'https://github.com/chunnodu',<i class="fab fa-github"></i>)
+SOCIAL_EMAIL = (
+    (:fa: `fa-twitter`, 'https://twitter.com/geoponge'),
+    (:fa:`fa-github`, 'https://github.com/chunnodu'),
+    (:fa: `fa-envelope`, 'mailto:chuknnodu@gmail.com')
+)
 
 DEFAULT_PAGINATION = 7
 
@@ -34,3 +37,8 @@ DEFAULT_PAGINATION = 7
 
 STATIC_PATHS = ['images', 'extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
+
+# Enable Pelican FontAwesome icons
+PLUGIN_PATH = 'plugins'
+PLUGINS = ['tipue_search','pelican_fontawesome']
+DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'authors', 'archives', 'search']
