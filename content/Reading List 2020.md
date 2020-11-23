@@ -1,5 +1,6 @@
 Title: My 2020 Reading List
 Date: 2020-09-10
+Modified: 2020-11-21
 Category: Reading
 
 Thanks to the pandemic and a personal desire to write more this year, I started by doing a lot of reading. 
