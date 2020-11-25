@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- 
+import fontawesome as fa
 
 AUTHOR = 'Chu Nnodu'
 SITENAME = 'Chu\'s Digital Log'
@@ -25,9 +26,9 @@ AUTHOR_FEED_RSS = None
 
 # Social widget
 SOCIAL_EMAIL = (
-    (:fa: 'fa-twitter', 'https://twitter.com/geoponge'),
-    (:fa:'fa-github', 'https://github.com/chunnodu'),
-    (:fa: 'fa-envelope', 'mailto:chuknnodu@gmail.com')
+    (fa 'fa-twitter', 'https://twitter.com/geoponge'),
+    (fa 'fa-github', 'https://github.com/chunnodu'),
+    (fa 'fa-envelope', 'mailto:chuknnodu@gmail.com')
 )
 
 DEFAULT_PAGINATION = 7
