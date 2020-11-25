@@ -3,9 +3,8 @@ Date: 2020-08-28 21:38
 
 I design, build and manage information systems, bringing clarity of thought and quality execution to new product development. 
 
-After training and starting out as a network engineer, I quickly got bored of just implementation without any focus on the business or costumer.
-
-Cue the search for more fulfillment that led me to management/strategy consulting, where I discovered Alexander Osterwalder's [Business Model Canvas](https://www.strategyzer.com/canvas/business-model-canvas) and the process of intentionally designing Value Propsitions for customers. Going on to grad school, I learned how to build and manage data products/information systems for strategic advantage, and have used that experience at enterprises and startups working end-to-end on the full life cycle of data driven products, first as an analyst and then leading teams.
+After training and starting out as a network engineer, I quickly got bored of just implementation without any focus on the business or costumer and  that led me to management/strategy consulting, where I discovered Alexander Osterwalder's [Business Model Canvas](https://www.strategyzer.com/canvas/business-model-canvas) and the process of intentionally designing Value Propsitions for customers. 
+In grad school, I learned how businesses use technology for strategic advantage, and have since experienced the full life cycle of data driven products, first as an analyst and then leading teams.
 
 I'm passionate about all things creativity and innovation, simplicity in product design, and open-source software.
 
