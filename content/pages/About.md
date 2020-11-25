@@ -1,8 +1,7 @@
 Title: About Me
 Date: 2020-08-28 21:38
 
-I'm a business technologist who designs, develops and manages 
-information systems, bringing clarity of thought and quality execution to new product development. 
+I design, build and manage information systems, bringing clarity of thought and quality execution to new product development. 
 
 After training and starting out as a network engineer, I quickly got bored of just implementation without any focus on the business or costumer.
 
