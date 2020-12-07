@@ -14,6 +14,6 @@ Here's what I think from practice and observation:
 
 4. Intellectual curiosity: knowing how to keep an open mind in the constant search for better ways to solve a problem
 
-5. A designers mind set, with the demonstrated ability to synthesize these attributes and create new solutions problems
+5. A designers mind set, with the demonstrated ability to synthesize these attributes and create new solutions to problems
 
 My approach over the last decade has been to deliberately seek traditional and non-traditional means to hone these skills. 
