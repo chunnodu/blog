@@ -8,7 +8,7 @@ SITENAME = 'Chu\'s Digital Log'
 
 PATH = 'content'
 
-THEME = 'pelican-minimal'
+THEME = "pelican-minimal"
 
 TIMEZONE = 'Europe/Paris'
 

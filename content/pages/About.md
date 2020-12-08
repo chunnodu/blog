@@ -14,7 +14,7 @@ My [top skills](https://secure.plum.io/p/o93Pr7IyMGN98jHG9suN5A) creatively comb
 
 
 
-### Stuff I Like Doing
+## Stuff I Like Doing
 - [Reading](https://chunnodu.com/my-2020-reading-list.html)
 - Creating
 - Writing & Mindmapping

@@ -1,10 +1,11 @@
-@red:  #ff0000;
+@red:  #a1665e;
 @black:  #000000;
+@cream: #dec69b;
 @white:  #ffffff;
 @light-grey:  #eee;
 @med-grey:  #777;
 @dark-grey:  #333;
-@myblue: #78c3eb;
+@myblue: #058c8c;
 @blue:  @myblue;
 @accent:  @blue;
 @sans: 'iAWriterQuattroS', sans-serif;
@@ -43,9 +44,10 @@ hr {
 
 aside {
     
-  background-color: @myblue;
+  background-color: @light-grey;
 
   div#user_meta {
+    font-size: 20px;
     padding: 40px;
     text-align: center;
 
@@ -73,7 +75,7 @@ aside {
         display: inline;
 
         a {
-          color: @black;
+          color: @red;
 
           i {
             margin-right: 4px;
@@ -100,30 +102,32 @@ main {
   }
 
   article {
-    max-width: 685px;
+    max-width: 620px;
     padding: 0.2em 2.5em 0.2em 2.5em;
     text-rendering: optimizeLegibility;
 
     h1 {
-      font-size: 38px;
+      font-size: 36px;
     }
 
     h2 {
+      color: @red;
       font-size: 28px;  
     }
 
     h3 {
+      color: #c5a29d;
       font-size: 22px;  
     }
 
     div#article_meta {
       font-size: 0.725em;
-      color: @med-grey;
+      color: @blue;
     }
 
     div#article_meta_index {
       font-size: 0.725em;
-      color: @med-grey;
+      color: @red;
       margin-bottom: -10px;
       margin-top: -16px;
     }
@@ -139,6 +143,7 @@ main {
 
 
           a {
+            color: @blue;
             text-decoration: underline;
           }
 
@@ -216,7 +221,7 @@ main {
       padding: 10px;
       border: 2px solid @accent;
       .border-radius(20px);
-      text-transform: uppercase;
+      text-transform: capitalize;
       color: @accent;
       font-size: 1.125em;
       &:hover {
@@ -229,13 +234,11 @@ main {
       }
     }
 
-    p#paginator {
-    }
   }
 
   div#ending_message {
     padding: 0 40px 0 40px;
-    font-color: @light-grey;
+    color: @red;
     font-size: 0.675em;
   }
 }
@@ -275,7 +278,7 @@ main {
     overflow-y: hidden;
 
     article {
-      max-width: 685px;
+      max-width: 620px;
     }
 
     header {

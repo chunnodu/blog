@@ -1,176 +1,92 @@
-@font-face {
-  font-family: 'iAWriterQuattroS';
-  src: url("../fonts/iAWriterQuattroS-Regular.eot");
-  src: local('iAWriterQuattroS Regular'),
-    local('iAWriterQuattroS-Regular'),
-    url("../fonts/iAWriterQuattroS-Regular.eot") format("embedded-opentype"),
-    url("../fonts/iAWriterQuattroS-Regular.woff2") format("woff2"),
-    url("../fonts/iAWriterQuattroS-Regular.woff") format("woff"),
-    url("../fonts/iAWriterQuattroS-Regular.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal;
-  font-display: auto;  
-}
-
-@font-face {
-  font-family: 'iAWriterQuattroS';
-  src: url("../fonts/iAWriterQuattroS-Bold.eot");
-  src: local('iAWriterQuattroS Bold'),
-    local('iAWriterQuattroS-Bold'),
-    url("../fonts/iAWriterQuattroS-Bold.eot") format("embedded-opentype"),
-    url("../fonts/iAWriterQuattroS-Bold.woff2") format("woff2"),
-    url("../fonts/iAWriterQuattroS-Bold.woff") format("woff"),
-    url("../fonts/iAWriterQuattroS-Bold.ttf") format("truetype");
-  font-weight: bold;
-  font-style: normal;
-  font-display: auto;  
-}
-@font-face {
-  font-family: 'iAWriterQuattroS';
-  src: url("../fonts/iAWriterQuattroS-Italic.eot");
-  src: local('iAWriterQuattroS Italic'),
-    local('iAWriterQuattroS-Italic'),
-    url("../fonts/iAWriterQuattroS-Italic.eot") format("embedded-opentype"),
-    url("../fonts/iAWriterQuattroS-Italic.woff2") format("woff2"),
-    url("../fonts/iAWriterQuattroS-Italic.woff") format("woff"),
-    url("../fonts/iAWriterQuattroS-Italic.ttf") format("truetype");
-  font-weight: normal;
-  font-style: italic;
-  font-display: auto;  
-}
-@font-face {
-  font-family: 'iAWriterQuattroS';
-  src: url("../fonts/iAWriterQuattroS-BoldItalic.eot");
-  src: local('iAWriterQuattroS BoldItalic'),
-    local('iAWriterQuattroS-BoldItalic'),
-    url("../fonts/iAWriterQuattroS-BoldItalic.eot") format("embedded-opentype"),
-    url("../fonts/iAWriterQuattroS-BoldItalic.woff2") format("woff2"),
-    url("../fonts/iAWriterQuattroS-BoldItalic.woff") format("woff"),
-    url("../fonts/iAWriterQuattroS-BoldItalic.ttf") format("truetype");
-  font-weight: bold;
-  font-style: italic;
-  font-display: auto;  
-}
-
-
-
 body {
   margin: 0;
   padding: 0;
   background-color: #ffffff;
-  color: #242121;
-  font-family: "iAWriterQuattroS", sans-serif;
-  text-align: justify;
-  text-justify: inter-word;
+  color: #333;
+  font-family: 'iAWriterQuattroS', sans-serif;
 }
 a {
-  color: #303030;
+  color: #000000;
   text-decoration: none;
 }
 hr {
-  color: #ffffff;
-  background-color: #ffffff;
+  color: #eee;
+  background-color: #eee;
   height: 1px;
   border: none;
   margin-top: 3px;
   margin-bottom: 3px;
 }
 aside {
-  background-color: #ffffff;
+  background-color: #eee;
 }
 aside div#user_meta {
-  padding-left: 10%;
+  font-size: 20px;
+  padding: 40px;
   text-align: center;
 }
 aside div#user_meta h2 {
-  color: #ffffff;
-  margin: 0% 5% 4% 5%;
-  padding-left: 0%;
-  padding-bottom: 3%;
-  padding-right: 0%;
-  font-weight: 800;
-  border-bottom: #303030 2px solid;
-}
-aside div#user_meta a {
-  font-size: 150%;
-  color: #303030;
-  text-decoration: none;
+  margin: 15px 0 5px 0;
+  padding-left: 10px;
+  font-weight: 600;
 }
 aside div#user_meta p {
-  margin: 0 0% 0% 0;
-  font-size: 140%;
-  padding-left: 0%;
-  padding-right: 0%;
-  color: #858585;
+  margin: 0 0 15px 0;
+  font-size: 0.85em;
+  padding-left: 10px;
+  padding-right: 15px;
 }
 aside div#user_meta ul {
-  margin: 40px 0 0 0;
-  padding-left: 0px;
-  font-size: 0.75em;
+  margin: 30px 0 0 0;
+  padding-left: 10px;
+  font-size: 0.95em;
   list-style-type: none;
 }
 aside div#user_meta ul li {
-  margin-left: 0px;
-  display: inline-flex;
-  font-size: 125%;
+  margin-right: 18px;
+  display: inline;
 }
 aside div#user_meta ul li a {
-  color: #303030;
+  color: #a1665e;
 }
 aside div#user_meta ul li a i {
   margin-right: 4px;
-  font-size: 0.95em;
-}
-aside div#user_meta ul2 {
-  margin: 0 0 0 0%;
-  font-size: 150%;
-  list-style-type: none;
-}
-aside div#user_meta ul2 li {
-  margin-left: 12px;
-  display: inline;
-  align-items: center
-}
-aside div#user_meta ul2 li a {
-  color: #303030;
-}
-aside div#user_meta ul2 li a i {
-  margin-right: 5px;
   font-size: 0.9em;
 }
 main header {
-  padding: 0px 10px 0px 10px;
-  border-top: #eeeeee 1px solid;
-  border-bottom: #ffffff 2px solid;
-  background-color: #ffffff;
+  padding: 10px 40px 10px 40px;
+  border-top: #eee 1px solid;
+  border-bottom: #eee 1px solid;
+  background-color: #eee;
 }
 main header p {
   font-weight: 600;
-  font-size: 0.525em;
+  font-size: 0.625em;
   text-transform: uppercase;
 }
 main article {
-  font-size: 85%;
-  max-width: 100%;
-  padding: 0% 5% 0% 5%;
+  max-width: 620px;
+  padding: 0.2em 2.5em 0.2em 2.5em;
   text-rendering: optimizeLegibility;
 }
 main article h1 {
-  font-size: 38px;
+  font-size: 36px;
 }
 main article h2 {
+  color: #a1665e;
   font-size: 28px;
 }
 main article h3 {
+  color: #c5a29d;
   font-size: 22px;
 }
 main article div#article_meta {
   font-size: 0.725em;
-  color: #777777;
+  color: #058c8c;
 }
 main article div#article_meta_index {
   font-size: 0.725em;
-  color: #777777;
+  color: #a1665e;
   margin-bottom: -10px;
   margin-top: -16px;
 }
@@ -178,10 +94,11 @@ main article div#disqus_thread {
   padding: 25px 0;
 }
 main article div#article_text {
-  font-size: 15pt;
-  line-height: 35px;
+  font-size: 16px;
+  line-height: 26px;
 }
 main article div#article_text a {
+  color: #058c8c;
   text-decoration: underline;
 }
 main article div#article_text code {
@@ -189,24 +106,24 @@ main article div#article_text code {
   padding: 0;
   color: #000000;
   font-size: 0.9em;
-  font-family: "iAWriterQuattroS", monospace;
-  background: #ffffff;
+  font-family: 'iAWriterQuattroS', monospace;
+  background: #eee;
 }
 main article div#article_text pre {
   margin: 22px 2px 22px 2px;
   padding: 8px;
   color: #000000;
-  border-left: 3px solid #78c3eb;
+  border-left: 3px solid #058c8c;
   font-size: 0.9em;
-  font-family: "iAWriterQuattroS", monospace;
-  background: #eeeeee;
+  font-family: 'iAWriterQuattroS', monospace;
+  background: #eee;
   line-height: 1.125em;
   overflow-x: auto;
 }
 main article div#article_text blockquote {
   margin: 22px 2px 22px 2px;
   padding-left: 40px;
-  color: #777777;
+  color: #777;
   font-style: italic;
 }
 main article div#article_text div.figure {
@@ -227,71 +144,70 @@ main article div#article_text div.figure img {
   -webkit-box-shadow: 0 1px 5px #ccc;
 }
 main article div#article_text div.figure p.caption {
-  color: #777777;
+  color: #777;
   font-style: italic;
   font-size: 0.9em;
   margin-top: 0px;
   padding: 8px;
 }
 main footer {
-  border-bottom: #ffffff 1px solid;
+  border-top: #eee 1px solid;
+  border-bottom: #eee 1px solid;
   padding: 40px;
 }
 main footer a.button_accent {
   padding: 10px;
-  border: 2px solid #78c3eb;
+  border: 2px solid #058c8c;
   border-radius: 20px;
   -moz-border-radius: 20px;
   -webkit-border-radius: 20px;
-  text-transform: uppercase;
-  color: #78c3eb;
+  text-transform: capitalize;
+  color: #058c8c;
   font-size: 1.125em;
 }
 main footer a.button_accent:hover {
   color: #ffffff;
-  background-color: #78c3eb;
+  background-color: #058c8c;
 }
 main footer a.button_accent:active {
   color: #ffffff;
-  background-color: #78c3eb;
+  background-color: #058c8c;
 }
 main div#ending_message {
   padding: 0 40px 0 40px;
-  font-color: #eeeeee;
+  color: #a1665e;
   font-size: 0.675em;
 }
 @media screen and (min-width: 1024px) {
   aside {
-    width: 22%;
-    height: 70%;
+    width: 25%;
+    height: 100%;
     position: fixed;
-    top: 10%;
-    bottom: 30%
+    top: 0;
     left: 0;
-    border-right: #303030 1px solid;
+    border-right: #eee 1px solid;
   }
   aside h2 {
     margin: 10px 0 0 0;
   }
   aside div#user_meta {
-    max-width: 77%;
-    text-align: center;
+    max-width: 240px;
+    text-align: left;
   }
   aside div#user_meta ul li {
     margin-bottom: 20px;
     display: block;
   }
   main {
-    width: 77%;
+    width: 75%;
     position: absolute;
     top: 0;
-    left: 23%;
+    left: 25%;
     overflow-x: hidden;
     overflow-y: hidden;
   }
   main article {
-    max-width: 100%;
-    font-size: 90%;
+    max-width: 620px;
   }
   main header {
     border-top: 0;

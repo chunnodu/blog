@@ -12,11 +12,10 @@ Title: Resume
 ---
 ## Education
 
-- MS Computer Information Systems (all but capstone)(2017)
 - M.Sc in Management(Information Systems) (2014)
 - B.Sc. Electrical/Electronic Engineering (2011)
 
-### Certifications
+## Certifications
 
 - New Product Development Professional (2020)
 - Scaled Agilist (2019)
