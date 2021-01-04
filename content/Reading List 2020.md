@@ -18,7 +18,7 @@ Here is the run down of my booklist this year. Making it to the end will leave m
 3. Simplicity
 4. Water Logic
     
-    Another great find by Ed de Bono. I haven't put it into practical application yet, but I learned how to use flowscapes to map out natural flow of thoughts and isolate bottlenecks in thinking. Will most likely be helpful for brainstorming sessions
+    Another great find by Ed de Bono. I haven't put it into practical application yet, but I learned how to use flowscapes to map out natural flow of thoughts and isolate bottlenecks in thinking. Will most likely be helpful for brainstorming sessions. If you're interested in the theory behind flowscapes, read this explainer by
 
 5. Self Help - Samuel Smiles (1859)
 6. Shoe Dog(a)
@@ -49,18 +49,3 @@ Here is the run down of my booklist this year. Making it to the end will leave m
 19. Autobiography of Malcom X (a)
 
 *(a) = audiobook
-
-### In Progress   
--  Semantic Web for the Working Ontologist
--  The Toyota way
-
-### Still in the Queue
-
-- Everybody Writes - Ann Handley
-- African Fractals - Ron Eglash
-- Realtime: Making Digital China
-- Traction
-- Observational Sketching
-- Read this if you want to take great photographs of places
-- Read this if you want to take great photographs of people
-

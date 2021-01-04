@@ -3,10 +3,11 @@
 import fontawesome as fa
 
 AUTHOR = 'Chu Nnodu'
+
+GITHUB_URL = 'https://github.com/chunnodu'
+PATH = 'content'
 SITENAME = 'Chu\'s Digital Log'
 #SITEURL = 'http://localhost:8000'
-
-PATH = 'content'
 
 THEME = "pelican-minimal"
 
