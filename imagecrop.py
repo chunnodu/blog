@@ -13,4 +13,4 @@ print(img1.size)
 print(img2.size)
 
 img1.save("./content/images/TwitterEOY1.png", 'png')
-img2.save("./content/images/TwitterEOY2.jpg", 'png')
+img2.save("./content/images/TwitterEOY2.png", 'png')

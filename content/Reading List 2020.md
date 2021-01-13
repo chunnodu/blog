@@ -9,6 +9,7 @@ Here is the run down of my booklist this year. Making it to the end will leave m
 **Update:** It's November now and I made good progress, so look out for short summaries coming soon.
 
 ### So Far, I've 'Read'*
+*(a) = audiobook
 
 1. Atomic Habits
 2. AI Super Powers(a) - Kai Fu Lee
@@ -48,4 +49,3 @@ Here is the run down of my booklist this year. Making it to the end will leave m
 18. Meditation - Jim Downing
 19. Autobiography of Malcom X (a)
 20. Inspired: How to create technology products customers love.
-*(a) = audiobook
