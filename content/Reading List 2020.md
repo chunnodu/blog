@@ -47,5 +47,5 @@ Here is the run down of my booklist this year. Making it to the end will leave m
 17. Selling is Simple - Fred Herman (1970)
 18. Meditation - Jim Downing
 19. Autobiography of Malcom X (a)
-
+20. Inspired: How to create technology products customers love.
 *(a) = audiobook

@@ -26,11 +26,16 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Social widget
-# SOCIAL = (
-#    (fa.icons['twitter'], 'https://twitter.com/geoponge'),
-#    (fa.icons['github'], 'https://github.com/chunnodu'),
-#    (fa.icons['envelope'], 'mailto:chuknnodu@gmail.com')
-#)
+LINKS = (
+    ('Twitter', 'https://twitter.com/geoponge'),
+    ('Github', 'https://github.com/chunnodu'),
+    ('Linkedin', 'https://www.linkedin/in/chunnodu')
+# 'mailto:chuknnodu@gmail.com')
+)
+
+GITHUB_URL = 'https://github.com/chunnodu'
+TWITTER_USERNAME = 'https://twitter.com/geoponge'
+
 
 DEFAULT_PAGINATION = 7
 

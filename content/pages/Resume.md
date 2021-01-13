@@ -2,12 +2,13 @@ Title: Resume
 
 ## Experience
 
-- **Business Systems Analyst/ System Engineer** | Fortune 500 retailer, 2018 - 2020
-- **Data Analytics Consultant** | Top 10 US Market Research company, 2017 - 2018
-- **Spatial Business Intelligence Manager** | Geographic Information Systems center , 2016 - 2017 
-- **Business Data Analyst** | Mortgage-backed Securitizer, 2015
+- **Knowledge Graph & Product Management Consulting**  2020 - date
+- **Business Systems Analyst/Engineer**  _Fortune 500 retailer_, 2018 - 2020
+- **Data Analytics Consultant**  _Top 10 US Market Research company_, 2017 - 2018
+- **Spatial Business Intelligence Manager**  _GIS Research center_ , 2016 - 2017 
+- **Business Data Analyst**  _Mortgage-backed Securitizer_, 2015
 - **Independent Consultant** at [Ajared](www.ajarged.ng), 2013 - 2015
-- **Business Research Analyst** | Boutique Innovation Consulting firm, 2011 - 2013
+- **Business Research Analyst**  _Boutique Innovation Consulting firm_, 2011 - 2013
 
 ---
 ## Education
@@ -23,6 +24,7 @@ Title: Resume
 - Management of Technology (2014)
 
 ---
+
 ## Publications and talks
 - A Peer-to-Peer Hyperlocal Approach to Last-Mile Delivery in Nigeria (Financing Sustainable Development Ideas for Action, World Bank, 2016)
 
