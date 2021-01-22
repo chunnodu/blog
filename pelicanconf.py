@@ -26,16 +26,11 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Social widget
-LINKS = (
-    ('Twitter', 'https://twitter.com/geoponge'),
-    ('Github', 'https://github.com/chunnodu'),
-    ('Linkedin', 'https://www.linkedin/in/chunnodu')
+SOCIAL = (('twitter', 'https://twitter.com/geoponge', ':fa:`fa-twitter`'),('github', 'https://github.com/chunnodu', ':fa:`fa-github`'),('linkedin', 'https://www.linkedin/in/chunnodu', ':fa:`fa-linkedin`'))
 # 'mailto:chuknnodu@gmail.com')
-)
 
 GITHUB_URL = 'https://github.com/chunnodu'
 TWITTER_USERNAME = 'https://twitter.com/geoponge'
-
 
 DEFAULT_PAGINATION = 7
 
@@ -47,5 +42,5 @@ EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
 # Enable Pelican FontAwesome icons
 #PLUGIN_PATH = 'plugins'
-#PLUGINS = ['tipue_search','pelican_fontawesome']
+PLUGINS = ['tipue_search','pelican_fontawesome']
 #DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'authors', 'archives', 'search']
