@@ -2,9 +2,11 @@ Title: Business Man
 Date: 25-01-2021
 Categories: Business
 
-## As a Businessman, What do you do?
 
-An African #business man who was being interviewed about his profession, responded this way to the question: "As a #business man sir, what do you do?"
+
+An African #business man who was being interviewed about his profession, responded this way to the question: 
+
+### "As a #business man sir, what do you do?"
     
     I do #business
     
