@@ -2,28 +2,26 @@ Title: Business Man
 Date: 25-01-2021
 Categories: Business
 
+An African #businessman who was being interviewed about his profession, responded this way to the question: 
 
+#### "As a #businessman sir, what do you do?"
 
-An African #business man who was being interviewed about his profession, responded this way to the question: 
-
-### "As a #business man sir, what do you do?"
+I do #business
     
-    I do #business
+I #deal on #deals
     
-    I #deal on #deals
+If you have a #gooddeal
     
-    If you have a #gooddeal
+You get it to me
     
-    You get it to me
+If I #like it
     
-    If I #like it
+I #buy your #deal
     
-    I #buy your #deal
+If you have #money to #buy my own
     
-    If you have #money to #buy my own
+I give you my #bill
     
-    I give you my #bill
+You #pay
     
-    You #pay
-    
-    And that's #business
+And that's #business
