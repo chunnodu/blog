@@ -7,3 +7,7 @@ At the end of 2015 I moved back to Nigeria for about 5 months to help start the 
 
 #### [Ajared: Information Services](http://www.ajared.ng)
 Consulting practice providing applied solutions related to Business, Creativity, Data, Education, Innovation, Information Systems and Product Management, particularly for forward thinking entrepreneurs and ventures of African descent.
+
+
+#### Study of Self: What your posts on social media say about you?
+Find out more about your real self with semantic analysis of your top twitter posts.

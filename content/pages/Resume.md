@@ -7,7 +7,7 @@ Title: Resume
 - **Data Analytics Consultant**  _Top 10 US Market Research company_, 2017 - 2018
 - **Spatial Business Intelligence Manager**  _GIS Research center_ , 2016 - 2017 
 - **Business Data Analyst**  _Mortgage-backed Securitizer_, 2015
-- **Independent Consultant** at [Ajared](www.ajarged.ng), 2013 - 2015
+- **Independent Consultant** at [Ajared](www.ajarged.ng), 2013 - 2016
 - **Business Research Analyst**  _Boutique Innovation Consulting firm_, 2011 - 2013
 
 ---
