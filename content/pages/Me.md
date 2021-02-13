@@ -3,8 +3,8 @@ Date: 2020-08-28 21:38
 
 I bring clarity of thought & quality execution to technology product management,  designing information systems that deliver value to customers. My [top skills](https://secure.plum.io/p/o93Pr7IyMGN98jHG9suN5A) creatively harness my business and technology background. 
 
-Trained as an engineer, boredom implementing technology without any direct customer focus led to discovery of [Business Modeling](https://www.strategyzer.com/canvas/business-model-canvas) and Value Proposition design, and then to grad school to understand winning strategy with the right information and systems.
-My research: applying information systems to solve business problems in emerging markets.
+Trained as an engineer, boredom implementing technology without any direct customer focus led to discovery of [Business Modeling](https://www.strategyzer.com/canvas/business-model-canvas) and Value Proposition design, and to grad school to understand winning strategy with the right information and systems.
+My research applies information systems to solve business problems in emerging markets.
 
 I love simple design, maps, data and open-source systems. This is my personal digital log. 
 
