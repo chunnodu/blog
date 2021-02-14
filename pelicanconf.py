@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- 
-import fontawesome as fa
+
 
 AUTHOR = 'Chu Nnodu'
 
@@ -25,12 +25,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Social widget
-SOCIAL = (('twitter', 'https://twitter.com/geoponge', ':fa:`fa-twitter`'),('github', 'https://github.com/chunnodu', ':fa:`fa-github`'),('linkedin', 'https://www.linkedin/in/chunnodu', ':fa:`fa-linkedin`'))
-# 'mailto:chuknnodu@gmail.com')
 
-GITHUB_URL = 'https://github.com/chunnodu'
-TWITTER_USERNAME = 'https://twitter.com/geoponge'
 
 DEFAULT_PAGINATION = 7
 
@@ -40,7 +35,4 @@ DEFAULT_PAGINATION = 7
 STATIC_PATHS = ['images', 'extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
-# Enable Pelican FontAwesome icons
-#PLUGIN_PATH = 'plugins'
-PLUGINS = ['tipue_search','pelican_fontawesome']
 #DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'authors', 'archives', 'search']
