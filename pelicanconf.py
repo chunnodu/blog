@@ -53,3 +53,6 @@ EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 TAGS_URL = 'tags.html'
 ARCHIVES_URL = 'archives.html'
 CATEGORY_URL = 'categories.html'
+
+
+USER_LOGO_URL = './content/images/chunnodu.png'

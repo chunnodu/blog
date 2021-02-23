@@ -4,7 +4,7 @@ Categories: Business
 Tags: Notes
 
 
-An African #businessman who was being interviewed about his profession, responded this way to the question:  "As a #businessman sir, what do you do?"
+An African #businessman who was being interviewed about his profession, responded this way to the question:  **"As a #businessman sir, what do you do?"**
 
 - I do #business: I #deal on #deals
     
