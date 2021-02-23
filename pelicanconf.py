@@ -53,6 +53,6 @@ TAGS_URL = 'tags.html'
 ARCHIVES_URL = 'archives.html'
 CATEGORY_URL = 'categories.html'
 
-USER_LOGO_URL = './output/images/chunnodu.png'
+USER_LOGO_URL = 'https://github.com/chunnodu/blog/blob/master/output/images/chunnodu.png'
 
 DISPLAY_PAGES_ON_MENU = True
