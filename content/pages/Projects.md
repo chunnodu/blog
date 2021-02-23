@@ -9,6 +9,6 @@ Consulting practice providing applied solutions for Business, Creativity, Data, 
 At the end of 2015 I moved back to Nigeria for about 5 months to help start the technology company, which several efforts later is now known as [DLVR Logistics](https://www.dlvr.ng). No longer involved day-to-day, I am an avid researcher and contribute to new product development in the space.
 
 ##### Study of Self: Text Analysis of Twitter Posts
-
+##### Mapping Cities of Interest for further geospatial business analytics: Abuja, Enugu, Lagos, Nnewi, Shenzhen.
 #### Tamerri Festival: Connectedness Starts Here
 
