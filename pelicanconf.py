@@ -27,7 +27,6 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('About', 'https://chunnodu.com/pages/me.html'),
-         ('Resume', 'https://chunnodu.com/pages/resume.html'),
          ('Projects', 'https://chunnodu.com/pages/projects.html'),
          ('Top Skills', 'https://secure.plum.io/p/o93Pr7IyMGN98jHG9suN5A')
          )
