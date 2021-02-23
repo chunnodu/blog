@@ -18,15 +18,8 @@ I love simple design, maps, data and open-source systems. This is my personal di
 
 ## Contact
 
+ If you could use some help thinking through a New Product, Business Model or designing your Information Systems more strategically, consider [scheduling a consultation](https://calendly.com/chunnodu/small-business-consultation).
 
-Book a Business Consultation [here](https://calendly.com/chunnodu/small-business-consultation) if you need expert level help with:
-
-- **New Product Development:** _Strategy, Process, Tools and Metrics_
-
-- **Business:** _Concept Development, Value Proposition Design, Business Modeling & Analysis_
-
-- **Information Systems:** _Information Architecture, Geographic Information Systems, Data Modeling._
-
-Otherwise, ask about my Mind Mapping Class every last weekend of the month.
+Join my Mind Mapping Class [here on Telegram](https://t.me/ajaredresearch). I do a live session on the last saturday of the month.
 
 [_Send me an email_](mailto:chuknnodu@gmail.com) | +1(978-238-8148) 
