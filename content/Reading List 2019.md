@@ -1,6 +1,7 @@
 Title: My 2019 Reading List
 Date: 2019-12-31
 Category: Reading
+Tags: Reading
 
 1. Making Ideas Happen
 2. Africa Rise and Shine - Jim Ovia

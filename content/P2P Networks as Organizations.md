@@ -1,6 +1,7 @@
 Title: Peer to Peer Networks as Organization Models
 Date: 2018-05-20
 Category: Information Systems
+Tags: Research
 
 Are there any similarities between peer-to-peer networks in computing and the nature of operations in Africa? I'm inclined to think so. 
 

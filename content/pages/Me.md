@@ -22,7 +22,7 @@ Book a Business Consultation [here](https://calendly.com/chunnodu/small-business
 
 - **New Product Development:** _Strategy, Process, Tools and Metrics_
 
-- **Business:** _Concept Development, Value Proposition Design, Business Model Generation & Analysis_
+- **Business:** _Concept Development, Value Proposition Design, Business Modeling & Analysis_
 
 - **Information Systems:** _Information Architecture, Geographic Information Systems, Data Modeling._
 
