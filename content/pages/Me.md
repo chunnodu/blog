@@ -29,4 +29,4 @@ Book a Business Consultation [here](https://calendly.com/chunnodu/small-business
 
 Otherwise, ask about my Mind Mapping Class every last weekend of the month.
 
-_Stay in touch_: **[chuknnodu@gmail.com](mailto:chuknnodu@gmail.com)** | +1(978-238-8148) 
+[_Send me an email_](mailto:chuknnodu@gmail.com) | +1(978-238-8148) 
