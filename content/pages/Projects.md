@@ -11,4 +11,4 @@ At the end of 2015 I moved back to Nigeria for about 5 months and helped start t
 #### Tamerri Festival: Connectedness Starts Here
 
 ##### Study of Self: Text Analysis of Twitter Posts
-##### Mapping Cities of Interest for further geospatial business analytics: Abuja, Enugu, Lagos, Nnewi, Shenzhen.
+##### Mapping Cities of Interest: Abuja, Enugu, Lagos, Nnewi, Shenzhen.
