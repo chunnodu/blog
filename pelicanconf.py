@@ -56,3 +56,5 @@ CATEGORY_URL = 'categories.html'
 
 
 USER_LOGO_URL = './content/images/chunnodu.png'
+
+DISPLAY_PAGES_ON_MENU = True

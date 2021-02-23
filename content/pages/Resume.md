@@ -23,10 +23,9 @@ Title: Resume
 ---
 
 ##### Publications and talks
-- A Peer-to-Peer Hyperlocal Approach to Last-Mile Delivery in Nigeria \r\n
-__(Financing Sustainable Development Ideas for Action, World Bank, 2016)__
+- A Peer-to-Peer Hyperlocal Approach to Last-Mile Delivery in Nigeria __[Financing Sustainable Development Ideas for Action, World Bank, 2016](https://www.youtube.com/watch?v=Kt3F4uG1miU)__
 
 ##### Awards
-- 1st Place Winner - World Bank Ideas for Action 2016
+- 1st Place Winner - [World Bank Ideas for Action 2016](https://www.youtube.com/watch?v=v8irneSas2w)_
 - Professors Excellence Award - NJIT 2014
 - Beta Gamma Sigma Honors Society - NJIT 2014
