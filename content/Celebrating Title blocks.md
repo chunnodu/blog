@@ -1,8 +1,8 @@
 Title: Celebrating Title Blocks
 Date: 2021-02-23
-Tags: Personal, Notes
+Tags: Notes
 
-I learnt an interesting life lesson from one of the faculty who taught __Engineering Drawing: Computer Aided Design__ in my 2nd year at university. When the classes got too rowdy and a lot of students had lost concentration, he would keep reminding us about the tests and exams.
+I learnt an interesting life lesson from one of the faculty who taught _Engineering Drawing: Computer Aided Design_ in my 2nd year at university. When the classes got too rowdy and a lot of students had lost concentration, he would keep reminding us about the tests and exams.
 > "You guys not listening now will **celebrate title blocks** during the exam!"
 
 When the midterms rolled around the lab was deadly quiet
@@ -13,7 +13,7 @@ For some context, here's a title block at the bottom right corner of this engine
 
 Either ways, the point was that although a necessary step, title blocks were a detail only valuable with a completed drawing. After the early stages of the exam you should have moved into the actual drawing material - if you completed the title block and never drew anything else, you'd fail.
 
-It's easy to fall into that trap in real life. If we get caught up in the planning or minor wins we can  forget that the action, when the rubber meets the road is in **more doing**: getting traction, not just launching an application. Figuring out a sustainable business model - not just receiving funding. The 15 - 20 repetitious customer interviews after the first interesting ones that you need to actually start seeing patterns during customer discovery. 
+It's easy to fall into that trap in real life. If we get caught up in the planning or minor wins we can  forget that the action, when the rubber meets the road is in **more doing**: getting traction, not just launching an application. Figuring out a sustainable business model - not just receiving funding. 
+ The 15 - 20 repetitious customer interviews after the first interesting ones that you need, to actually start seeing patterns during customer discovery. 
 
-I can't guarantee that the dopamine rush is better when you wait till you've finished a workout or skill acquisition program before posting pictures of your gear/you hard at work but...here's my drift...stop celebrating title blocks.
-
+So how about completing a workout plan or skill acquisition program before posting pictures of your gear/you hard at work. I can't guarantee that the dopamine rush is better when you wait till you've finished but here's my drift...stop celebrating title blocks...get on now with the doing.
