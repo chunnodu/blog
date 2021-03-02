@@ -4,7 +4,6 @@
 
 AUTHOR = 'Chu Nnodu'
 
-GITHUB_URL = 'https://github.com/chunnodu'
 PATH = 'content'
 SITENAME = 'Chu\'s Digital Log'
 #SITEURL = 'http://localhost:8000'
@@ -26,9 +25,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('About', 'https://chunnodu.com/pages/me.html'),
-         ('Projects', 'https://chunnodu.com/pages/projects.html'),
-         ('Top Skills', 'https://secure.plum.io/p/o93Pr7IyMGN98jHG9suN5A')
+LINKS = (('About', 'https://chunnodu.com/home.html'),
+         ('Top Skills', 'https://secure.plum.io/p/o93Pr7IyMGN98jHG9suN5A'),
+         ('Projects', 'https://chunnodu.com/pages/projects.html')
          )
 
 # Social widget
