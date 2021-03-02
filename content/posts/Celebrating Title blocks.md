@@ -3,7 +3,7 @@ Date: 2021-02-23
 Tags: Notes
 
 I learnt an interesting life lesson from one of the faculty who taught _Engineering Drawing: Computer Aided Design_ in my 2nd year at university. When the classes got too rowdy and a lot of students had lost concentration, he would keep reminding us about the tests and exams.
-> "You guys not listening now will **celebrate title blocks** during the exam!"
+> "You guys not listening now will **celebrate title blocks** during the exam"
 
 When the midterms rolled around the lab was deadly quiet
 as we all dug into our engineering drawings on AutoCad, some of us for the first time on our own. As the exam went on he'd walk around looking at our screens, and make these sort of comments on our progress.

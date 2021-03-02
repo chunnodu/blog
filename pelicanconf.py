@@ -44,7 +44,7 @@ DEFAULT_PAGINATION = 5
 STATIC_PATHS = ['images', 'extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
-#DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'authors', 'archives', 'search']
+DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'authors', 'archives']
 
 # Display Submenu with article categories
 
@@ -54,4 +54,12 @@ CATEGORY_URL = 'categories.html'
 
 USER_LOGO_URL = 'https://chunnodu.com/images/chunnodu.png'
 
-DISPLAY_PAGES_ON_MENU = True
+DISPLAY_PAGES_ON_MENU = False
+
+# Take all article urls under posts
+ARTICLE_URL = "posts/{date:%Y}-{date:%m}-{date:%d}-{slug}.html"
+ARTICLE_SAVE_AS = "posts/{date:%Y}-{date:%m}-{date:%d}-{slug}.html"
+
+# Take all index file under posts
+INDEX_SAVE_AS = 'posts/index.html'
+INDEX_URL = 'posts/'

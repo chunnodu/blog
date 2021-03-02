@@ -1,4 +1,4 @@
-Title: Me
+Title: About Me
 Date: 2020-08-28 21:38
 URL: ../
 Save_as: ./home.html
@@ -9,12 +9,12 @@ Trained as an engineer, boredom implementing technology without any direct custo
 In grad school I learnt how to win at strategy with the right information and systems.
 My research applies this to solve business problems in emerging markets.
 
-I love simple design, maps, data and open-source systems. This is my personal digital log. 
+I love learning, simple design, maps, data and open-source systems. This is a digital log. 
 
 ## Stuff I Like Doing
-- [Reading]({category}/reading.html)
-- Creating
+- [Reading]({tag}/reading)
 - [Writing]({index}) 
+- Creating
 - Mindmapping
 - Muay Thai
 
