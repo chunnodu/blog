@@ -18,7 +18,7 @@ I love simple design, maps, data and open-source systems. This is my personal di
 - Mindmapping
 - Muay Thai
 
-# [Contact Me](./contact.html)
+# [Contact Me](https://chunnodu.com/contact.html)
 
 [_Send me an email_](mailto:chuknnodu@gmail.com) or consider [scheduling a consultation](https://calendly.com/chunnodu/small-business-consultation) if you have a small business need. 
 
