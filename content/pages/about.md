@@ -20,6 +20,6 @@ I love simple design, maps, data and open-source systems. This is my personal di
 
 # [Contact Me](https://chunnodu.com/contact.html)
 
-[_Send me an email_](mailto:chuknnodu@gmail.com) or consider [scheduling a consultation](https://calendly.com/chunnodu/small-business-consultation) if you have a small business need. 
+[**Send me an email**](mailto:chuknnodu@gmail.com) or consider [**scheduling a consultation**](https://calendly.com/chunnodu/small-business-consultation) if you have a small business need. 
 
 Join my Mind Mapping Class [here on Telegram](https://t.me/ajareducation) - I do a live session on the last saturday, every month.
