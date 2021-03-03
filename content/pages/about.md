@@ -1,4 +1,4 @@
-Title: About Me
+Title: about me
 Date: 2020-08-28 21:38
 URL: ../
 Save_as: ./home.html
@@ -11,14 +11,14 @@ My research applies this to solve business problems in emerging markets.
 
 I love learning, simple design, maps, data and open-source systems. This is a digital log. 
 
-## Stuff I Like Doing
+## stuff I Like doing
 - [Reading]({tag}/reading)
 - [Writing]({index}) 
 - Creating
 - Mindmapping
 - Muay Thai
 
-# [Contact Me](https://chunnodu.com/contact.html)
+# [contact](https://chunnodu.com/contact.html)
 
 [**Send me an email**](mailto:chuknnodu@gmail.com) or consider [**scheduling a consultation**](https://calendly.com/chunnodu/small-business-consultation) if you have a small business need. 
 

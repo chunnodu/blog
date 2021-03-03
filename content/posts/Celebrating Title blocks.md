@@ -1,6 +1,6 @@
 Title: Celebrating Title Blocks
 Date: 2021-02-23
-Tags: Notes
+Tags: notes
 
 I learnt an interesting life lesson from one of the faculty who taught _Engineering Drawing: Computer Aided Design_ in my 2nd year at university. When the classes got too rowdy and a lot of students had lost concentration, he would keep reminding us about the tests and exams.
 > "You guys not listening now will **celebrate title blocks** during the exam"

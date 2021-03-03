@@ -1,7 +1,7 @@
 Title: My 2021 Reading List
 Date: 2021-01-04
 Category: Reading
-Tags: Reading
+Tags: reading
 
 
 I start my *reading lists by carrying over the books I couldn't get to or finish previously. Here's this year's haul. 
