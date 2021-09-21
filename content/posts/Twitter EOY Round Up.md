@@ -1,6 +1,6 @@
 Title: Table Stakes: Should Twitter have an End of The Year Round-up?
 Date: 2021-01-13
-Category: Product Management
+Category: Product
 Tags: product
 
 When I saw people tweet their 2020 recaps from [Spotify](https://2020.byspotify.com/) and [Apple Music](https://replay.music.apple.com/), I wondered if Twitter's product team observed this cross-platform sharing and what implementing something similar with already existing data assets would look like. Maybe an **End of the Year report**? 
