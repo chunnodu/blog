@@ -12,6 +12,7 @@ At the end of 2015 I moved back to Nigeria for about 5 months and helped start t
 
 #### 2021
 
+##### **Ship 30 for 30**[{../posts/Ship30for30.md}]
 ##### **Study of Self**: Text Analysis of Twitter Posts (Twitter Developer Labs)
 ##### **Mapping Cities of Interest**: Abuja, Enugu, Lagos, Nnewi, Shenzhen.
 ##### **Building on messaging APIS**: Telegram and Whatsapp Business

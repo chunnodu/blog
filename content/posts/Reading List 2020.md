@@ -37,7 +37,7 @@ Here is the run down of my booklist this year. Making it to the end will leave m
 
 12. The E Myth Revisited(a)
 
-    The authoritative guide for how to stop working only in your business as an entrepreneur, but also on it: building systems and processes to keep it running according to plan without your daily involvement. It introduces the franchise mindset to show that any business should be run like a franchise, and also clearly differentiates between the 3 personas in a business: the Technician, the Entrepreneur and the Manager. I definitely default to the manager role, sometimes technician. Good read, practical tips were straight-forward to implement.
+    Great guide for how to stop working only in your business as an entrepreneur, but also on it: by building systems and processes to keep it running according to plan without your daily involvement. It introduces the franchise mindset to show that any business should be run like a franchise, and also clearly differentiates between the 3 personas in a business: the Technician, the Entrepreneur and the Manager. I definitely default to the manager role, sometimes technician. Good read, practical tips were straight-forward to implement.
 
 13. The Courage to be Disliked(a)
 
@@ -50,3 +50,5 @@ Here is the run down of my booklist this year. Making it to the end will leave m
 18. Meditation - Jim Downing
 19. Autobiography of Malcom X (a)
 20. Inspired: How to create technology products customers love.
+
+21. How to Get Rich - Felix Dennis
