@@ -12,11 +12,9 @@ Who can easily go months late on rent without talking about it, rack up debts wi
 Now I've known [good and bad flatmates](https://chunnodu.com/posts/2021-11-01-good-flatmate-bad-flatmate.html), but once I ran into this other type.  Zero contribution most times, but 100% entitlement to an equal share. 
 Prayed in loud voices and spoke in tongues, but went 6 months without speaking to folks who were subsidizing his rent. Funny, when conflicts happened he would still be the first one to yell.
 
-Did he move out after finding his feet and to hosts some needed space? Of course not. The move out date dragged months, then into and over a year.
+Did he move out after finding his feet and to hosts some needed space? Of course not. A classic poor communicator, even basics like "discuss move out plans without prompting" and "leave as stated", got complicated. The move out date dragged months, then into and over a year. It was quite in character to spot him still at the apartment, after another move out deadline has gone by, without a word to anyone saying why.
 
-A classic poor communicator, even basics like "discuss move out plans without prompting" and "leave as stated", got complicated. It was very surprising, although quite in character to spot him still at the apartment, after his move out date had gone by, without a word to anyone saying why.
-
-Remarkably, this fellow had approached as the original lease ran out to say "Hey, let's move in together again"  
+Remarkably, these types always approach as the original term runs out to say "Hey, let's move in together again"  
 
 AND GO THROUGH ALL THIS AGAIN? 
 
