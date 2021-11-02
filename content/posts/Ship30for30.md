@@ -1,7 +1,7 @@
 Title: Why I want to #Ship30for30
 Date: 2021-09-21
-Category: writing
-Tags: writing
+Category: 
+Tags: #Ship30for30
 
 
 #Ship30for30, or publish 30 atomic articles in 30 days feels an opportunity for me to fall into a good writing habit, especially because of my underlying feeling that with all the reading I do, I could be a better writer than I currently am. 
