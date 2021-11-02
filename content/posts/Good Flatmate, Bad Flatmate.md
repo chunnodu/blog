@@ -18,5 +18,5 @@ They keep records and pay back everything they owe - being independent in times 
 
 Finally, when the chapter is over, good flatmates discuss move out plans ahead of time with up to a month's notice, and can commit and stick to a move out schedule.
 
-
+Now, meet the ["Flatmate from Hell"](https://chunnodu.com/posts/2021-11-02-enter-the-flatmate-from-hell.html)
 
