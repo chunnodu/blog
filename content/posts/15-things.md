@@ -58,5 +58,5 @@ I joined the Personal Knowledge Graph working group and drank from the firehose 
 # After the storm
 - ### Take a step back, see what you accomplished.
 - ### Beef up those savings.
-- ### Update your disaster recovery or = "what if i lose my job plan".
+- ### Update your disaster recovery or "what if i lose my job plan".
 - ### Pay it forward, write/share your lessons during the storm.
