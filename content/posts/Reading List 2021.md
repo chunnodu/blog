@@ -17,6 +17,9 @@ I start my *reading lists by carrying over the books I couldn't get to or finish
 5. Between the World and Me - Ta-Nehisi Coates
 6. Rework(a) - Jason Fried + DHH
 7. Softwware Wasteland(a) - Dave McComb
+8. Class Struggle in Africa - Kwame Nkrumah
+9. Getting Things Done(a) - David Allen
+10. The Psychology of Money(a) - Addison Bell
 
 ### In Progress
 - The Penguin Book of Japanese Short Stories
@@ -24,6 +27,9 @@ I start my *reading lists by carrying over the books I couldn't get to or finish
 - Everybody Writes - Ann Handley
 - How to Sell to Nigerians - Akin Alabi
 - Deep Work - Cal Newport
+- Product Roadmaps Relaunched
+- Shi-ka-ke - Naohiro Matsumura
+
 
 ### Upcoming 
 - African Fractals - Ron Eglash
@@ -39,6 +45,11 @@ I start my *reading lists by carrying over the books I couldn't get to or finish
 - The Content Trap - Bharat Anand
 - Benjamin Franklin - Walter Isaacson
 - Never Split the Difference(a) - Chris Voss
+- Women Race and Class - Angela Y. Davis
+- Assata - Assata Shakur
+- Essential Balances - Ivo Velichov
+- Zen and the Art of Motorcycle Maintenance - Robert M. Pirsig
+
 
 
 ## Referencing through the Year
