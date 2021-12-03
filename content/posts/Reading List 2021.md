@@ -29,28 +29,7 @@ I start my *reading lists by carrying over the books I couldn't get to or finish
 - Deep Work - Cal Newport
 - Product Roadmaps Relaunched
 - Shi-ka-ke - Naohiro Matsumura
-
-
-### Upcoming 
-- African Fractals - Ron Eglash
-- Realtime: Making Digital China
-- The Man God Uses - Oswald J Smith
-- Foundation For Faith - Derek Prince
-- So Good They Can't Ignore You - Cal Newport
-- Peopleware: Productive People and Teams 
-- Boundaries - Cloud & Townsend
-- Prosperity Paradox - Clayton Christensen
-- Meditation & Mindfulness
-- Making Change Happen - Ifueko Omoigui
-- The Content Trap - Bharat Anand
-- Benjamin Franklin - Walter Isaacson
-- Never Split the Difference(a) - Chris Voss
-- Women Race and Class - Angela Y. Davis
-- Assata - Assata Shakur
-- Essential Balances - Ivo Velichov
-- Zen and the Art of Motorcycle Maintenance - Robert M. Pirsig
-
-
+- API's for Dummies
 
 ## Referencing through the Year
 

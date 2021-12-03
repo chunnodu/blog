@@ -2,17 +2,18 @@ Title: Resume
 Status: hidden
 
 ##### Experience
-- **Knowledge Graph & Product Management Consulting**  2020 - date
-- **Business Systems Analyst/Engineer**  _Fortune 500 retailer_, 2018 - 2020
-- **Data Analytics Consultant**  _Top 10 US Market Research company_, 2017 - 2018
-- **Spatial Business Intelligence Manager**  _GIS Research center_, 2016 - 2017 
+- **Technical Product Manager** 2016 - 2020, 2021 - date
+- **Knowledge Graph Consultant**  2020 - date
+- **Systems Analyst/Engineer**  _Fortune 500 Retailer_, 2018 - 2020
+- **Data Analytics Consultant**  _Top 10 US Market Research Company_, 2017 - 2018
+- **Spatial Business Intelligence Manager**  _GIS Research Center_, 2016 - 2017 
 - **Business Data Analyst**  _Mortgage-backed Securitizer_, 2015
-- **Independent Consultant** at [Ajared](www.ajared.ng), 2013 - 2016
-- **Business Research Analyst**  _Boutique Innovation Consulting firm_, 2011 - 2013
+- **Information Architect** at [Ajared](https://www.ajared.ng), 2013 - 2016
+- **Business Research Analyst**  _Innovation Consulting Firm_, 2011 - 2013
 
 ##### Education
-- M.Sc in Management(Information Systems) (2014)
-- B.Sc. Electrical/Electronic Engineering (2011)
+- [M.Sc in Management(Information Systems)](https://management.njit.edu/) (2014)
+- B.Sc Electrical/Electronic Engineering (2011)
 
 ##### Certifications
 
@@ -28,5 +29,5 @@ Status: hidden
 
 ##### Awards
 - 1st Place Winner - [World Bank Ideas for Action 2016](https://www.youtube.com/watch?v=v8irneSas2w)
-- Professors Excellence Award - NJIT 2014
+- Professors Excellence Award - [NJIT](https://management.njit.edu/) 2014
 - Beta Gamma Sigma Honors Society - NJIT 2014
