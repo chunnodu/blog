@@ -39,4 +39,3 @@ Here's some ideas for how you could use it.
 - Personal blog: your ideas, like the one you're reading have a home, and you can invite people there to visit.
 
 Remember, with digital you aren't stuck to any choices & can change or combine uses more easily. Now, go buy some 'land' so you can reap the benefits.
-

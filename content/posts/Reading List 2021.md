@@ -20,14 +20,14 @@ I start my *reading lists by carrying over the books I couldn't get to or finish
 8. Class Struggle in Africa - Kwame Nkrumah
 9. Getting Things Done(a) - David Allen
 10. The Psychology of Money(a) - Addison Bell
+11. Product Roadmaps Relaunched
+12. Deep Work - Cal Newport
 
 ### In Progress
 - The Penguin Book of Japanese Short Stories
 - The Innovation Stack - Jim McKelvey
 - Everybody Writes - Ann Handley
 - How to Sell to Nigerians - Akin Alabi
-- Deep Work - Cal Newport
-- Product Roadmaps Relaunched
 - Shi-ka-ke - Naohiro Matsumura
 - API's for Dummies
 
