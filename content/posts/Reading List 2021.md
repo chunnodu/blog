@@ -16,23 +16,14 @@ I start my *reading lists by carrying over the books I couldn't get to or finish
 4. Traction - Gabriel Weinberg
 5. Between the World and Me - Ta-Nehisi Coates
 6. Rework(a) - Jason Fried + DHH
-7. Softwware Wasteland(a) - Dave McComb
+7. Software Wasteland(a) - Dave McComb
 8. Class Struggle in Africa - Kwame Nkrumah
 9. Getting Things Done(a) - David Allen
 10. The Psychology of Money(a) - Addison Bell
 11. Product Roadmaps Relaunched
 12. Deep Work - Cal Newport
 
-### In Progress
-- The Penguin Book of Japanese Short Stories
-- The Innovation Stack - Jim McKelvey
-- Everybody Writes - Ann Handley
-- How to Sell to Nigerians - Akin Alabi
-- Shi-ka-ke - Naohiro Matsumura
-- API's for Dummies
-
 ## Referencing through the Year
-
 1. Semantic Web for the Working Ontologist
 2. Testing Business Ideas - Alex Osterwalder
 3. Observational Sketching
