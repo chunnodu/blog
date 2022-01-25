@@ -7,5 +7,5 @@ Save_as: ./contact.html
 
 Join my Mind Mapping Class [here on Telegram](https://t.me/ajareducation). I do a live session on the last saturday, every month.
 
-[_Reach out on Informally on Telegram_](https://t.me/chunnodu) | Email [innovation@ajared.ng](mailto:innovation@ajared.ng) for Work
+[_Reach out on Informally on Telegram_](https://t.me/chunnodu) | Email [chu@chunnodu.com](mailto:chu@chunnodu.com) for Work
 
