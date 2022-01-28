@@ -10,17 +10,16 @@ I start my *reading lists by carrying over the books I couldn't get to or finish
 ### Read
 - Benjamin Franklin: An American Life (a)- Walter Isaacson
 - So Good They Can't Ignore You (a) - Cal Newport
-- The Art of Learning - Josh Waitzkin
+- The Art of Learning (a) - Josh Waitzkin
 - How to Sell to Nigerians - Akin Alabi
+- API's for Dummies
 
 ### In Progress
-
 - The Bitcoin Standard - Saifedean Ammous
 - The Penguin Book of Japanese Short Stories
 - The Innovation Stack - Jim McKelvey
 - Everybody Writes - Ann Handley
 - Shi-ka-ke - Naohiro Matsumura
-- API's for Dummies
 - Scaling Up - Verne Harnish
 
 ### Upcoming 
