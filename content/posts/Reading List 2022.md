@@ -13,16 +13,23 @@ I start my *reading lists by carrying over the books I couldn't get to or finish
 - The Art of Learning (a) - Josh Waitzkin
 - How to Sell to Nigerians - Akin Alabi
 - API's for Dummies
+- The Innovation Stack - Jim McKelvey
 
 ### In Progress
+- Zen and the Art of Motorcycle Maintenance - Robert M. Pirsig
 - The Bitcoin Standard - Saifedean Ammous
 - The Penguin Book of Japanese Short Stories
-- The Innovation Stack - Jim McKelvey
 - Everybody Writes - Ann Handley
 - Shi-ka-ke - Naohiro Matsumura
 - Scaling Up - Verne Harnish
 
 ### Upcoming 
+- Assata - Assata Shakur
+
+- The Shape of Things(A Philosophy of Design) - Vilem Flusser
+- Music 109: Notes on Experimental Music - Alvin Lucier
+- The Knowledge Graph Cookbook - Andreas Blumauer
+- The Mind of the Maker - Dorothy Sayers
 - African Fractals - Ron Eglash
 - Realtime: Making Digital China
 - The Man God Uses - Oswald J Smith
@@ -35,13 +42,6 @@ I start my *reading lists by carrying over the books I couldn't get to or finish
 - The Content Trap - Bharat Anand
 - Never Split the Difference(a) - Chris Voss
 - Women Race and Class - Angela Y. Davis
-- Assata - Assata Shakur
-- Zen and the Art of Motorcycle Maintenance - Robert M. Pirsig
-- The Shape of Things(A Philosophy of Design) - Vilem Flusser
-- Music 109: Notes on Experimental Music - Alvin Lucier
-- The Knowledge Graph Cookbook - Andreas Blumauer
-- The Mind of the Maker - Dorothy Sayers
-- Scaling Up
 
 ## Referencing through the Year
 
