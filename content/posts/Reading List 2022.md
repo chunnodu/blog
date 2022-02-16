@@ -14,18 +14,17 @@ I start my *reading lists by carrying over the books I couldn't get to or finish
 - How to Sell to Nigerians - Akin Alabi
 - API's for Dummies
 - The Innovation Stack - Jim McKelvey
+- Zen and the Art of Motorcycle Maintenance - Robert M. Pirsig
 
 ### In Progress
-- Zen and the Art of Motorcycle Maintenance - Robert M. Pirsig
+- Shi-ka-ke - Naohiro Matsumura
+- Everybody Writes - Ann Handley
 - The Bitcoin Standard - Saifedean Ammous
 - The Penguin Book of Japanese Short Stories
-- Everybody Writes - Ann Handley
-- Shi-ka-ke - Naohiro Matsumura
 - Scaling Up - Verne Harnish
 
 ### Upcoming 
 - Assata - Assata Shakur
-
 - The Shape of Things(A Philosophy of Design) - Vilem Flusser
 - Music 109: Notes on Experimental Music - Alvin Lucier
 - The Knowledge Graph Cookbook - Andreas Blumauer
