@@ -15,20 +15,21 @@ I start my *reading lists by carrying over the books I couldn't get to or finish
 - API's for Dummies
 - The Innovation Stack - Jim McKelvey
 - Zen and the Art of Motorcycle Maintenance - Robert M. Pirsig
+- Shi-ka-ke - Naohiro Matsumura
+- Assata - Assata Shakur
 
 ### In Progress
-- Shi-ka-ke - Naohiro Matsumura
 - Everybody Writes - Ann Handley
-- The Bitcoin Standard - Saifedean Ammous
-- The Penguin Book of Japanese Short Stories
 - Scaling Up - Verne Harnish
+- The Penguin Book of Japanese Short Stories
 
 ### Upcoming 
-- Assata - Assata Shakur
+- Women Race and Class - Angela Y. Davis
+- The Mind of the Maker - Dorothy Sayers
+- The Bitcoin Standard - Saifedean Ammous
 - The Shape of Things(A Philosophy of Design) - Vilem Flusser
 - Music 109: Notes on Experimental Music - Alvin Lucier
 - The Knowledge Graph Cookbook - Andreas Blumauer
-- The Mind of the Maker - Dorothy Sayers
 - African Fractals - Ron Eglash
 - Realtime: Making Digital China
 - The Man God Uses - Oswald J Smith
@@ -40,10 +41,8 @@ I start my *reading lists by carrying over the books I couldn't get to or finish
 - Making Change Happen - Ifueko Omoigui
 - The Content Trap - Bharat Anand
 - Never Split the Difference(a) - Chris Voss
-- Women Race and Class - Angela Y. Davis
 
 ## Referencing through the Year
-
 1. Semantic Web for the Working Ontologist
 2. Testing Business Ideas - Alex Osterwalder
 3. Observational Sketching
