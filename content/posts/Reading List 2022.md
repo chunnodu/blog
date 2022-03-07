@@ -23,9 +23,10 @@ I start my *reading lists by carrying over the books I couldn't get to or finish
 - Everybody Writes - Ann Handley
 - Scaling Up - Verne Harnish
 - The Penguin Book of Japanese Short Stories
+- Women Race and Class - Angela Y. Davis
+- Prosperity Paradox(a) - Clayton Christensen
 
 ### Upcoming 
-- Women Race and Class - Angela Y. Davis
 - The Mind of the Maker - Dorothy Sayers
 - The Bitcoin Standard - Saifedean Ammous
 - The Shape of Things(A Philosophy of Design) - Vilem Flusser
@@ -37,7 +38,6 @@ I start my *reading lists by carrying over the books I couldn't get to or finish
 - Foundation For Faith - Derek Prince
 - Peopleware: Productive People and Teams 
 - Boundaries - Cloud & Townsend
-- Prosperity Paradox - Clayton Christensen
 - Meditation & Mindfulness
 - Making Change Happen - Ifueko Omoigui
 - The Content Trap - Bharat Anand
