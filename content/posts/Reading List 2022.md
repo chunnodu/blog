@@ -18,16 +18,18 @@ I start my *reading lists by carrying over the books I couldn't get to or finish
 - Zen and the Art of Motorcycle Maintenance - Robert M. Pirsig
 - Shi-ka-ke - Naohiro Matsumura
 - Assata - Assata Shakur
+- Everybody Writes - Ann Handley
+- Prosperity Paradox(a) - Clayton Christensen
+- Kill it With Fire (a) - Marianne Bellotti
+- Women Race and Class - Angela Y. Davis
 
 ### In Progress
-- Everybody Writes - Ann Handley
+- The Mind of the Maker - Dorothy Sayers
 - Scaling Up - Verne Harnish
 - The Penguin Book of Japanese Short Stories
-- Women Race and Class - Angela Y. Davis
-- Prosperity Paradox(a) - Clayton Christensen
+- Kill it With Fire - Marianne Bellotti
 
 ### Upcoming 
-- The Mind of the Maker - Dorothy Sayers
 - The Bitcoin Standard - Saifedean Ammous
 - The Shape of Things(A Philosophy of Design) - Vilem Flusser
 - Music 109: Notes on Experimental Music - Alvin Lucier
