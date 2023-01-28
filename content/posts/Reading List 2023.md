@@ -12,16 +12,18 @@ Here's what I plan to read this year.
 
 
 ### In Progress
+- My Vision: Challenges in the Race for Excellence - Sheikh Mohammed bin Rashid Al Maktoum
 - The Mind of the Maker - Dorothy Sayers
 - The Penguin Book of Japanese Short Stories
 - Data Modeling Made Simple - Steve Hoberman
-- Monetizing Innovation - George Tacke, Madhavan Ramanujam
+- Monetizing Innovation (a) - George Tacke, Madhavan Ramanujam
 
 ### Upcoming 
 - Generating Product Ideas - Artiom Dashinsky
 - The Accidental Taxonomist - Heather Hedden
 - Product Sense - Peter Knudson/Braxton Bragg
 - Data Model Story Telling - Larry Burns
+- User Story Mapping - Jeff Patton
 - Profit First - Mike Michalowicz
 - The Invincible Company
 - The Mountain iis You - Brianna West
