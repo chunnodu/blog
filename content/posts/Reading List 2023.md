@@ -12,10 +12,11 @@ Here's what I plan to read this year.
 2. The Mind of the Maker - Dorothy Sayers
 3. Monetizing Innovation (a) - George Tacke, Madhavan Ramanujam
 4. Chip Wars - Chris Miller
+5. Data Modeling Made Simple - Steve Hoberman
 
 ### In Progress
 - My Vision: Challenges in the Race for Excellence - Sheikh Mohammed bin Rashid Al Maktoum
-- Data Modeling Made Simple - Steve Hoberman
+
 - Product Sense - Peter Knudson/Braxton Bragg
 
 ### Upcoming 
