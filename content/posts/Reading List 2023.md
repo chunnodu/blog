@@ -11,13 +11,14 @@ Here's what I plan to read this year.
 1. An African Abroad - Olabisi Ajala
 2. The Mind of the Maker - Dorothy Sayers
 3. Monetizing Innovation (a) - George Tacke, Madhavan Ramanujam
-4. Chip Wars - Chris Miller
+4. Chip War (a) - Chris Miller
 5. Data Modeling Made Simple - Steve Hoberman
+6. Are Your Lights On - Gerald M. Weinberg
 
 ### In Progress
 - My Vision: Challenges in the Race for Excellence - Sheikh Mohammed bin Rashid Al Maktoum
-
 - Product Sense - Peter Knudson/Braxton Bragg
+- The Content Trap (a) - Bharat Anand
 
 ### Upcoming 
 - Generating Product Ideas - Artiom Dashinsky
@@ -39,6 +40,5 @@ Here's what I plan to read this year.
 - Boundaries - Cloud & Townsend
 - Meditation & Mindfulness
 - Making Change Happen - Ifueko Omoigui
-- The Content Trap - Bharat Anand
 - Essential Balances - Ivo Velichkov
 
