@@ -9,13 +9,9 @@ tl;dr this could really be a post about [my nice new backpack](https://www.moles
 
 Growing up in Lagos in the 90's, I remember a television ad for Toyota that ended with a japanese voice saying "yoi shinai, yoi kangai - good thinking, good product". That slogan stuck.
 
-Toyota cars are generally good products. Good products get the job done - the experience isn't broken at any point of your journey.
+Toyota cars are generally good products. Good products get the job done - the experience isn't broken at any point of your journey. However, a common thing about products I *really love* is that they have deeper utility  - as you continue to use them, you discover subtle features along the way that really enhance the experience and make you go - "ah, great thinking". 
 
-However, a common thing about products I *really love* is that they have deeper utility  - as you continue to use them, you discover subtle features along the way that really enhance the experience and make you go - "ah, great thinking". 
-
-Great products find ways to push the envelope with delight, making you smile with every new discovery.
-
-An example folks with iPhones might relate to is the prompt to share your wifi password wirelessly when your friend needs to connect. I wouldn't buy an iPhone *for that*, but it does come in handy.
+Great products find ways to push the envelope with delight, making you smile with every new discovery. An example folks with iPhones might relate to is the prompt to share your wifi password wirelessly when your friend needs to connect. I wouldn't buy an iPhone *for that*, but it does come in handy.
 
 Here are other times I've smiled recently.
 
