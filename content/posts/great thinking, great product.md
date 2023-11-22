@@ -3,8 +3,6 @@ Date: 2023-11-22
 Category: Product
 Tags: product, #Ship30for30
 
-# "great thinking, great product"
-
 tl;dr this could really be a post about [my nice new backpack](https://www.moleskine.com/en-us/shop/bags/backpacks/metro-backpack/rolltop-backpack-black-8056420854206.html) . 
 
 Growing up in Lagos in the 90's, I remember a television ad for Toyota that ended with a japanese voice saying "yoi shinai, yoi kangai - good thinking, good product". That slogan stuck.
