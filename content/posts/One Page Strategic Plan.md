@@ -1,7 +1,7 @@
 Title: One Page Strategic Plan
 Date: 2020-11-28
 Category: Personal
-Tags: Notes
+Tags: notes
 
 I  wrote about completing my one page strategic plan this month [here](https://www.ajared.ng/one-page-strategic-plan/).
 

@@ -1,7 +1,7 @@
 Title: Business Man
 Date: 25-01-2021
 Categories: Business
-Tags: Notes
+Tags: notes
 Summary: An African businessman's response to the question: "As a #businessman sir, what do you do?"
 SUMMARY_MAX_LENGTH: '15'
 

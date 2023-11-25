@@ -1,7 +1,7 @@
 Title: Firsts: Snow
 Date: 19-01-2013
-Categories: Notes
-Tags: Notes
+Categories: notes
+Tags: notes
 
 Yesterday I saw snow.
 

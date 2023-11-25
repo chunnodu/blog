@@ -1,6 +1,6 @@
 Title: Excellent, but not enough
 Date: 2023-01-27
-Category: Notes
+Category: notes
 Tags: #Ship30for30
 
 

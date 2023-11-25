@@ -1,7 +1,7 @@
 Title: On Firsts: Cutting my Hair
 Date: 2016-08-11
-Category: Notes
-Tags: Notes
+Category: notes
+Tags: notes
 
 
 Yesterday morning, looking in the mirror made me wish I could cut my own hair.
