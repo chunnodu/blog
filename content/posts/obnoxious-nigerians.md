@@ -23,5 +23,5 @@ Here are some easy ways to be an Obnoxious Nigerian Abroad.
 
 9. Give your own children foreign names. Your native names come second. If it's not foreign, it's boring.
 
-10. If you ever leave Nigeria, immediately lose your accent. Fake an accent till you make it or end up with some unitelligible garble, but don't ever be caught dead sounding like your natural Nigerian self again. 
+10. You left Nigeria, so immediately lose your accent. Fake an accent till you make it or end up with some unitelligible garble, but don't ever be caught dead sounding like your natural Nigerian self again. 
 
