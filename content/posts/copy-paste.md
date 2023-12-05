@@ -26,4 +26,4 @@ Lesson 3: Knowing how to state your problem concisely gets you help faster. Busy
 
 Lesson 4: I like to think I could be a developer in another life but I with enough days like this I’d probably pull all my hair out before putting in my 10,000 hours.
 
-![copypaste](../images/copy-paste.png.jpg) 
+![copypaste](../images/copy-paste.png.jpg)
