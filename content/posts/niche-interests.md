@@ -1,5 +1,5 @@
 Title: Niche Interests
-Date: 2023-12-08
+Date: 2023-12-0
 Category: notes
 Tags: notes, #Ship30for30
 
