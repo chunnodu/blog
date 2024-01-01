@@ -4,9 +4,16 @@
 
 AUTHOR = 'Chu Nnodu'
 
-PATH = 'content'
+
 SITENAME = 'Chu\'s Digital Log'
 #SITEURL = 'http://localhost:8000'
+
+PATH = 'content'
+ARTICLE_PATHS = ['blog']
+
+ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
+ARTICLE_URL = '{date:%Y}/{slug}.html'
+
 
 THEME = "./themes/voce"
 
@@ -57,9 +64,14 @@ USER_LOGO_URL = 'https://chunnodu.com/images/chunnodu.png'
 DISPLAY_PAGES_ON_MENU = False
 
 # Take all article urls under posts
-ARTICLE_URL = "posts/{date:%Y}-{date:%m}-{date:%d}-{slug}.html"
-ARTICLE_SAVE_AS = "posts/{date:%Y}-{date:%m}-{date:%d}-{slug}.html"
+# ARTICLE_URL = "posts/{date:%Y}-{date:%m}-{date:%d}-{slug}.html"
+# ARTICLE_SAVE_AS = "posts/{date:%Y}-{date:%m}-{date:%d}-{slug}.html"
 
 # Take all index file under posts
 INDEX_SAVE_AS = 'posts/index.html'
 INDEX_URL = 'posts/'
+
+
+# Added on Dec 12
+
+ARTICLE_PATHS = ['posts']

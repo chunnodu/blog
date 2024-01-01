@@ -2,6 +2,7 @@ Title: A Dog Ate It
 Date: 2023-12-07
 Category: notes
 Tags: notes, #Ship30for30
+Slug: test-slug
 
 I hate giving excuses, but sometimes a dog really ate my homework. Life can really throw a row of curve-balls that are really hard to explain to someone who wasn’t present but, make you miss a deliverable.
 
