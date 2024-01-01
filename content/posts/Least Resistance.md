@@ -1,4 +1,7 @@
-“Least Resistance”
+Title: “Least Resistance”
+Date: 2024-01-01
+Category: notes
+Tags: #Ship30for30
 
 “What’s the easiest path down?”, I asked Osi after a great hike up the Mpape hills until we were 2500ft above sea level. 
 
