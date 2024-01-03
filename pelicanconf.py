@@ -9,7 +9,7 @@ SITENAME = 'Chu\'s Digital Log'
 #SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
-ARTICLE_PATHS = ['blog']
+ARTICLE_PATHS = ['content/posts']
 
 ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
 ARTICLE_URL = '{date:%Y}/{slug}.html'
@@ -46,7 +46,8 @@ SOCIAL = (('Twitter', 'https://twitter.com/geoponge'),
 DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+
+RELATIVE_URLS = True
 
 STATIC_PATHS = ['images', 'extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
