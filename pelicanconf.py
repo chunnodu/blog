@@ -9,7 +9,7 @@ SITENAME = 'Chu\'s Digital Log'
 #SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
-ARTICLE_PATHS = ['content/posts']
+# ARTICLE_PATHS = ['content/posts']
 
 ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
 ARTICLE_URL = '{date:%Y}/{slug}.html'
@@ -75,4 +75,4 @@ INDEX_URL = 'posts/'
 
 # Added on Dec 12
 
-ARTICLE_PATHS = ['posts']
+ARTICLE_PATHS = ["content/posts"]
