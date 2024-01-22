@@ -1,4 +1,7 @@
-“The Talk”
+Title: “The Talk”
+Date: 2024-01-21
+Category: notes
+Tags: notes, #Ship30for30
 
 As a teenager, depending on how involved your parents were, you probably got some version of “the talk” from your parents. You know, the sex talk. Hopefully it wasn’t prompted by you getting caught in a compromising position, but at a minimum it was some variant of caution about the opposite sex, dating, sex in general, and what kind of behavior is expected or acceptable of you. What they don’t tell you is that if you live twice that long, there’s an adult version of the talk - the marriage talk.
 
