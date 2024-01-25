@@ -1,4 +1,4 @@
-Nomadism: Up and Downsides
+Title: "Nomadism: Up and Downsides"
 Date: 2024-01-09
 Category: notes
 Tags: notes, #Ship30for30

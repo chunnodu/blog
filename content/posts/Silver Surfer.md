@@ -1,4 +1,8 @@
-Sunzone Surfer
+Title: Sunzone Surfer
+Date: 2024-01-04
+Category: notes
+Tags: notes, #Ship30for30
+
 
 No close relation to marvel’s fictional character, a sunzone surfer is a person who has decided to live across timezones, chase the sun, and get more good weather out of the year.
 

@@ -7,6 +7,6 @@ Great find. Simplicity is one of those things everyone claims to love, but very 
 
 Quotes: 
 
-"Verbalizing forces precision on thoughts which are vagues, indistinct and apparently complex. You do not have to agree with what you just said to yourself."
+"Verbalizing forces precision on thoughts which are vague, indistinct and apparently complex. You do not have to agree with what you just said to yourself."
 
 "When designing, be clear about: values, priorities and considerations."

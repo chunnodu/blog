@@ -9,7 +9,7 @@ SITENAME = 'Chu\'s Digital Log'
 #SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
-# ARTICLE_PATHS = ['content/posts']
+
 
 ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
 ARTICLE_URL = '{date:%Y}/{slug}.html'
@@ -38,7 +38,7 @@ LINKS = (('About', 'https://chunnodu.com/home.html'),
          )
 
 # Social widget
-SOCIAL = (('Twitter', 'https://twitter.com/geoponge'), 
+SOCIAL = (('Twitter', 'https://twitter.com/ajaredia'), 
         ('Linkedin', 'https://linkedin.com/in/chunnodu'), 
               ('Github', 'https://github.com/chunnodu'))
 
@@ -65,14 +65,14 @@ USER_LOGO_URL = 'https://chunnodu.com/images/chunnodu.png'
 DISPLAY_PAGES_ON_MENU = False
 
 # Take all article urls under posts
-# ARTICLE_URL = "posts/{date:%Y}-{date:%m}-{date:%d}-{slug}.html"
-# ARTICLE_SAVE_AS = "posts/{date:%Y}-{date:%m}-{date:%d}-{slug}.html"
+#ARTICLE_URL = "posts/{date:%Y}-{date:%m}-{date:%d}-{slug}.html"
+#ARTICLE_SAVE_AS = "posts/{date:%Y}-{date:%m}-{date:%d}-{slug}.html"
 
 # Take all index file under posts
-INDEX_SAVE_AS = 'posts/index.html'
-INDEX_URL = 'posts/'
+#INDEX_SAVE_AS = 'posts/index.html'
+#INDEX_URL = 'posts/'
 
 
 # Added on Dec 12
 
-ARTICLE_PATHS = ["content/posts"]
+#ARTICLE_PATHS = ["content/posts"]
