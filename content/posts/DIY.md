@@ -1,4 +1,7 @@
-# Doing It Yourself
+Title: Doing It Yourself
+Date: 2024-011-13
+Category: notes
+Tags: notes
 
 It may seem like knowledge workers favor outsourcing all menial tasks to give them time to make more money, but my unpopular opinion is that things like actually going into a grocery store to shop, ironing your own clothes, cooking and cleaning aren’t things to _always automate or outsource_. 
 
