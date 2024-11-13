@@ -1,5 +1,5 @@
 Title: Doing It Yourself
-Date: 2024-011-13
+Date: 2024-11-13
 Category: notes
 Tags: notes
 
