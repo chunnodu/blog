@@ -5,7 +5,7 @@ Tags: reading, #Ship30for30
 
 This is the latest I’ve published my reading list for the last 6 years. I typically start my reading list for the year by carrying over unread stuff from the last year, but this time I’m going to start off with the books I think I should really be reading at this point, and continue with things I have in progress that I should complete at some point.
 
-Edit - Feb 2015 - my initial list turned out to be wishful thinking. I have it [archived here](https://chunnodu.com/reading-list-2024.html). Here's what I actually ended up reading.
+Edit - Feb 2015 - my initial list turned out to be wishful thinking. I have it [archived here](https://chunnodu.com/wishful-reading-list-2024.html), but here's what I actually ended up reading.
 
 ### READ
 
