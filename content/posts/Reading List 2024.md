@@ -5,30 +5,61 @@ Tags: reading, #Ship30for30
 
 This is the latest I’ve published my reading list for the last 6 years. I typically start my reading list for the year by carrying over unread stuff from the last year, but this time I’m going to start off with the books I think I should really be reading at this point, and continue with things I have in progress that I should complete at some point.
 
-### Haven’t Read, But Need To
+Edit - Feb 2015 - my initial list turned out to be wishful thinking. I have it [archived here](https://chunnodu.com/reading-list-2024.html). Here's what I actually ended up reading.
 
-1. Tadao Ando, Complete works
-2. The Heart of Our Cities, Victor Gruen
-3. Product Management Sacred Seven
-4. Lateral Thinking, Ed De Bono
-5. Python for Geospatial Data Analysis
-6. Weinberg on Writing: The Fieldstone Method
-7. Rethinking Systems Analysis & Design
-8. A Technique for Producing Ideas
-9. User Story Mapping
-10. Only the Paranoid Survive
-11. Algorithms of the Intelligent Web
-12. More Secrets of Consulting
-13. The Sex Lives of African Women
-14. Attached
-15. Notes of a Native Son, James Baldwin
-16. Bell Hooks, All About Love
+### READ
 
-### Need to Finish Reading
+1. Lateral Thinking, Ed De Bono
+2. Secrets of Consulting
+3. More Secrets of Consulting
+4. A Technique for Producing Ideas
+5. Men and Rubber
+6. Generating Product Ideas
+7. Product Leadership
+8. White, Kenya Hara
+9. The 12 Week Year 
+10. Born a Crime (a)
+11. Elon Musk - Walter Isaacson (a)
+12. How to Know a person (a)
 
-17. Generating Product Ideas
-18. Secrets of Consulting
-19. Product Sense
-20. Introduction to Information Retrieval
-21. Product Leadership
-22. White, Kenya Hara
+
+### DNF - Did Not Finish
+
+1. Product Management Sacred Seven - read 350+ pages!
+2. The Mom Test - 80% done
+3. Weinberg on Writing: The Fieldstone Method - halfway through.
+4. The Heart of Our Cities, Victor Gruen
+5. Slow Productivity
+6. So Good They Can't Ignore You
+7. Making Digital China
+8. Tadao Ando, Complete works
+9. Ghostroots(a)
+10. How to Invest(a)
+11. The Halo Effect(a)
+12. The Illiad (a)
+
+### DNS - Did Not Start
+
+User Story Mapping
+Product Sense
+Introduction to Information Retrieval
+Continuous Discovery Habits
+Algorithms of the Intelligent Web
+The Sex Lives of African Women
+Attached
+Notes of a Native Son, James Baldwin
+Bell Hooks, All About Love
+Python for Geospatial Data Analysis
+Rethinking Systems Analysis & Design
+Only the Paranoid Survive(a)
+Things Hidden Since the Foundation of the World(a)
+Superthinking(a)
+China's Second Continent(a)
+
+
+
+### WNF - Will Not Finish
+
+Thinking in Bet(a)
+How to Know a Person(a)
+Unreasonable Hospitality (a)
