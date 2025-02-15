@@ -21,6 +21,7 @@ Edit - Feb 2015 - my initial list turned out to be wishful thinking. I have it [
 10. Born a Crime (a)
 11. Elon Musk - Walter Isaacson (a)
 12. How to Know a person (a)
+13. How to be Rich - Paul Getty
 
 
 ### DNF - Did Not Finish
@@ -60,6 +61,6 @@ China's Second Continent(a)
 
 ### WNF - Will Not Finish
 
-Thinking in Bet(a)
+Thinking in Bets(a)
 How to Know a Person(a)
 Unreasonable Hospitality (a)

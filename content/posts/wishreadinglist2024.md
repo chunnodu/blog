@@ -3,8 +3,6 @@ Date: 2025-02-15
 Category: Reading
 Tags: reading, notes
 
-My 2024 Wish Reading List 
-
 I published my reading list later than I normally would last year, and like that was a bad omen, ended up not reading even half of the books on there.
 
 I started a lot of books and didn’t finish, so some time was still spent reading.

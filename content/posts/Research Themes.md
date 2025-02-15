@@ -1,7 +1,7 @@
 Title: Research Themes
 Date: 2022-02-17
-Category: Research
-Tags: research
+Category: notes
+Tags: notes
 
 These are the current areas my research is focused on.
 

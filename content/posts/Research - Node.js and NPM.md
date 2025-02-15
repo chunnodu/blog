@@ -1,7 +1,7 @@
 Title: Research: Node.js and NPM
 Date: 2021-01-22
-Category: Research
-Tags: research
+Category: notes
+Tags: notes
 
 
 I joined the Estes Park working group late last year to get more hands on with Knowledge Graphs and Semantic web technology and jumped in on a research project. The premise was, knowing the RDF stack solves for enterprise knowledge graphs, are there more mainstream non-RDF alternatives which support W3C Semantic Web standards and are equally viable?

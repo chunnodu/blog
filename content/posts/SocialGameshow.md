@@ -1,6 +1,6 @@
 Title: A Social Gameshow
 Date: 2024-07-28
-Category: product
+Category: notes
 Tags: product
 
 Victor sent me a random WhatsApp message one Sunday
