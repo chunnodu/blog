@@ -1,7 +1,7 @@
 Title: Vanity Card
 Date: 2023-11-24
 Category:
-Tags: notes, #Ship30for30
+Tags: vanitycard, #Ship30for30
 
 Do thoughts need to be profound to be expressed? What if the real gems are just waiting their turn beneath the surface of all the other things our mind wants to get out?
 
