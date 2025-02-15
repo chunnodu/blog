@@ -3,7 +3,7 @@ Date: 2024-11-13
 Category: notes
 Tags: notes
 
-It may seem like knowledge workers favor outsourcing all menial tasks to give them time to make more money, but my unpopular opinion is that things like actually going into a grocery store to shop, ironing your own clothes, cooking and cleaning aren’t things to _always automate or outsource_. 
+It may seem like knowledge workers favor outsourcing all menial tasks to give them time to make more money, but my unpopular opinion is that you shouldn't _always automate or outsource_.  things like going into a grocery store to shop, ironing your own clothes, cooking and cleaning. 
 
 These tasks keep you in touch with being human, allow mental space for that curious type of reflection that happens when your body is doing something drudging that you don’t really need to think about closely, and even sometimes come with learning opportunities.
 
