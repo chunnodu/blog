@@ -1,7 +1,7 @@
 Title: great thinking, great product
 Date: 2023-11-22
-Category: notes
-Tags: product, #Ship30for30
+Category: product
+Tags: #Ship30for30
 
 tl;dr this could really be a post about [my nice new backpack](https://www.moleskine.com/en-us/shop/bags/backpacks/metro-backpack/rolltop-backpack-black-8056420854206.html) . 
 

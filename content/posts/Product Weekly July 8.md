@@ -1,7 +1,7 @@
 Title: July 2024 Take 1
 Date: 2024-07-08
 Category: product
-Tags: product
+Tags: notes
 
 
 # Product Weekly: July 2024 Take 1
