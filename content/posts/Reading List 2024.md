@@ -41,20 +41,20 @@ Edit - Feb 2015 - my initial list turned out to be wishful thinking. I have it [
 
 ### DNS - Did Not Start
 
-User Story Mapping
-Product Sense
-Introduction to Information Retrieval
-Continuous Discovery Habits
-Algorithms of the Intelligent Web
-The Sex Lives of African Women
-Attached
-Notes of a Native Son, James Baldwin
-Bell Hooks, All About Love
-Python for Geospatial Data Analysis
-Rethinking Systems Analysis & Design
-Only the Paranoid Survive(a)
-Things Hidden Since the Foundation of the World(a)
-Superthinking(a)
+User Story Mapping,
+Product Sense,
+Introduction to Information Retrieval,
+Continuous Discovery Habits,
+Algorithms of the Intelligent Web,
+The Sex Lives of African Women,
+Attached,
+Notes of a Native Son, James Baldwin,
+Bell Hooks, All About Love,
+Python for Geospatial Data Analysis,
+Rethinking Systems Analysis & Design,
+Only the Paranoid Survive(a),
+Things Hidden Since the Foundation of the World(a),
+Superthinking(a),
 China's Second Continent(a)
 
 
