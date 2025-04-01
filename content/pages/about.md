@@ -5,7 +5,7 @@ Save_as: ./home.html
 
 I'm a product development leader with experience delivering valuable products to thousands of users and millions of customers, bringing start-up resourcefulness to new product innovation for large enterprises.
 
-Forever  curious about learning, simplicity, design, maps, data, systems, and write about that here: www.ajared.ng 
+Forever  curious about learning, simplicity, design, maps, data, systems, I [write about that here](www.ajared.ng) 
 
 This is a digital log. 
 
