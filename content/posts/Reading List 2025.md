@@ -1,6 +1,5 @@
 Title: Reading List 2025
 Date: 2025-04-01
-
 Category: Reading
 Tags: reading
 
@@ -13,15 +12,12 @@ Here's this year's haul
 3. The Science of Rapid Skill Acquisition - Peter Hollins
 4. The 5AM club - Robin Sharma (a)
 
-
-
 ### Actively Reading
 
 1. Mover of Men and Mountains - R.G LeTourneau
 2. The Mom Test
 3. Weinberg on Writing: The Fieldstone Method - Gabriel Weinberg.
 4. Born Free - Steve Brown
-
 
 ### Waiting to Finish 
 1. The Heart of Our Cities, Victor Gruen
