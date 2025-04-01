@@ -10,7 +10,6 @@ SITENAME = 'Chu\'s Digital Log'
 
 PATH = 'content'
 
-
 THEME = './themes/voce/' 
 
 TIMEZONE = 'Europe/Paris'
@@ -20,15 +19,9 @@ DEFAULT_CATEGORY = 'notes'
 
 SUMMARY_MAX_LENGTH = 15
 
-# Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('About', 'https://chunnodu.com/home.html'),
+LINKS = (('Blog', 'https://chunnodu.com/tag/reading.html'),
          ('Top Skills', 'https://secure.plum.io/p/o93Pr7IyMGN98jHG9suN5A'),
          ('Projects', 'https://chunnodu.com/pages/projects.html')
          )
@@ -52,13 +45,20 @@ DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'authors', 'archives']
 
 # Display Submenu with article categories
 
-TAGS_URL = 'tags.html'
-ARCHIVES_URL = 'archives.html'
+#TAGS_URL = 'tags.html'
+#ARCHIVES_URL = 'archives.html'
 CATEGORY_URL = 'categories.html'
 
 USER_LOGO_URL = 'https://chunnodu.com/images/chunnodu.png'
 
 DISPLAY_PAGES_ON_MENU = False
+
+INDEX_SAVE_AS = 'blog/index.html'  # Moves blog roll to /blog/
+ARTICLE_URL = 'blog/{slug}.html'   # Blog posts go under /blog/
+ARTICLE_SAVE_AS = 'blog/{slug}.html'
+PAGE_URL = '{slug}.html'           # Static pages keep simple URLs
+PAGE_SAVE_AS = '{slug}.html'
+
 
 # Take all article urls under posts
 #ARTICLE_URL = "posts/{date:%Y}-{date:%m}-{date:%d}-{slug}.html"
@@ -72,4 +72,10 @@ DISPLAY_PAGES_ON_MENU = False
 #INDEX_SAVE_AS = 'posts/index.html'
 #INDEX_URL = 'posts/'
 
+# Feed generation is usually not desired when developing
+FEED_ALL_ATOM = None
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
 
