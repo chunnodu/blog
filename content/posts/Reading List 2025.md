@@ -1,6 +1,5 @@
 Title: Reading List 2025
-Date: 2025-02-15
-Date Modified: 2025-04-01
+Date: 2025-04-01
 
 Category: Reading
 Tags: reading
