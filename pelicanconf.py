@@ -23,7 +23,7 @@ SUMMARY_MAX_LENGTH = 15
 # Blogroll
 LINKS = (('Blog', 'https://chunnodu.com/tag/reading.html'),
          ('Top Skills', 'https://secure.plum.io/p/o93Pr7IyMGN98jHG9suN5A'),
-         ('Projects', '../projects.html')
+         ('Projects', './output/projects.html')
          )
 
 # Social widget
