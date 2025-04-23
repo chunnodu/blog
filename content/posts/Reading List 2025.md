@@ -11,18 +11,19 @@ Here's this year's haul
 2. My Oddysey - Nnamdi Azikiwe
 3. The Science of Rapid Skill Acquisition - Peter Hollins
 4. The 5AM club - Robin Sharma (a)
+5. Mover of Men and Mountains - R.G LeTourneau
+6. The Urgent Life - Bozoma Saint John
 
 ### Actively Reading
 
-1. Mover of Men and Mountains - R.G LeTourneau
-2. The Mom Test
-3. Weinberg on Writing: The Fieldstone Method - Gabriel Weinberg.
-4. Born Free - Steve Brown
+1. Just Evil Enough (the Subversive Marketing handbook) - Alistair Croll & Emily Ross
+2. Weinberg on Writing: The Fieldstone Method - Gabriel Weinberg.
+3. Born Free - Steve Brown
 
 ### Waiting to Finish 
 1. The Heart of Our Cities, Victor Gruen
-2. Slow Productivity
-3. So Good They Can't Ignore You
+2. Slow Productivity - Cal Newport
+3. So Good They Can't Ignore You - Cal Newport
 4. Making Digital China
 5. Things Hidden Since the Foundation of the World(a)
 6. The Halo Effect(a)
