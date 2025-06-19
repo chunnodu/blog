@@ -13,7 +13,7 @@ The technology team will be responsible for building solutions to support this o
 The business team will be responsible for prospecting for opportunities to build and sell solutions around retail intelligence, customizing our analytics for businesses and organizations.
 
 ## Business Model
-Our business model will start off using contractors as enumerators. For our pilot in Abuja, we shall source primarily from the NYSC because of
+Our business model will start off using contractors as enumerators. For our pilot in Abuja, we shall source primarily from the NYSC because of:
 
 - predictable seasonal availability of contractors in multiple batches.
 

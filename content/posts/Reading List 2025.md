@@ -13,19 +13,18 @@ Here's this year's haul
 4. The 5AM club - Robin Sharma (a)
 5. Mover of Men and Mountains - R.G LeTourneau
 6. The Urgent Life - Bozoma Saint John
-7. Tiny Experiments (a) - Anne-Laure Le Cunf
+7. Active Interviewing - Eric Kramer
+8. Tiny Experiments (a) - Anne-Laure Le Cunf
 
 ### Actively Reading
 
-Born Free - Steve Brown
+- Born Free - Steve Brown
 
-Made in Japan - Akio Morita
-
+- Made in Japan - Akio Morita
 
 ### Queued
-
-Demand Side Sales - Bob Moesta
-Shape Up - Ryan Singer
+- Demand Side Sales - Bob Moesta
+- Shape Up - Ryan Singer
 
 ### Waiting to Finish 
 1. The Heart of Our Cities, Victor Gruen
@@ -44,10 +43,17 @@ Shape Up - Ryan Singer
 
 
 At this current time, these themes reoccur in my reading: 
-Ideas, the mind, how stuff works
+
+- Ideas, the mind, how stuff works
+
 - Products & Management
+
 - Information Systems
+
 - Inspirational/leadership
+
 - Design
+
 - African Literature
+
 - Christian Literature

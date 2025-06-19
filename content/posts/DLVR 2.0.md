@@ -7,7 +7,7 @@ Tags: notes
 
 Build a listing site which becomes the premier destination for finding delivery agents, riders and delivery product and service providers
 
-Our customers will be businesses, organizations, individuals
+Our customers will be businesses, organizations, individuals.
 Our delivery method will be map based on our website and also via messaging apps e.g whatsapp.
 
     
@@ -26,5 +26,5 @@ Our delivery method will be map based on our website and also via messaging apps
 ### Approach to Product Development
 Shape Up: Pick things we can scope to deliver in 6 weeks.
 Reward developers with bounties for features shipped, not paid full-time employment.
-Promote the best solutions using our listing, wether or not we built them.
+Promote the best solutions using our listing, whether or not we built them.
 Collaborate with the ecosystem on the roadmap to make deliveries better. 
