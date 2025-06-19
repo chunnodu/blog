@@ -13,12 +13,19 @@ Here's this year's haul
 4. The 5AM club - Robin Sharma (a)
 5. Mover of Men and Mountains - R.G LeTourneau
 6. The Urgent Life - Bozoma Saint John
+7. Tiny Experiments (a) - Anne-Laure Le Cunf
 
 ### Actively Reading
 
-1. Just Evil Enough (the Subversive Marketing handbook) - Alistair Croll & Emily Ross
-2. Weinberg on Writing: The Fieldstone Method - Gabriel Weinberg.
-3. Born Free - Steve Brown
+Born Free - Steve Brown
+
+Made in Japan - Akio Morita
+
+
+### Queued
+
+Demand Side Sales - Bob Moesta
+Shape Up - Ryan Singer
 
 ### Waiting to Finish 
 1. The Heart of Our Cities, Victor Gruen
@@ -32,6 +39,8 @@ Here's this year's haul
 9. How to Invest(a)
 10. Tadao Ando, Complete works
 11. Continuous Discovery Habits
+12. Just Evil Enough (the Subversive Marketing handbook) - Alistair Croll & Emily Ross
+13. Weinberg on Writing: The Fieldstone Method - Gabriel Weinberg.
 
 
 At this current time, these themes reoccur in my reading: 
