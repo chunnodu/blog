@@ -1,4 +1,3 @@
-
 Title: Retail Intelligence
 Date: 2025-06-19
 Category: notes
@@ -15,10 +14,15 @@ The business team will be responsible for prospecting for opportunities to build
 
 ## Business Model
 Our business model will start off using contractors as enumerators. For our pilot in Abuja, we shall source primarily from the NYSC because of
+
 - predictable seasonal availability of contractors in multiple batches.
+
 - institutional memory of similar collaborations for elections, etc.
+
 - 80% of them need/want supplementary income
+
 - geographical spread in terms of distribution across states. 
+
 - hyperlocal spread - in every state they are assigned a PPA*, 
 and also a weekly CDS requirement to meet in various districts or LGAs which gives us a physical touchpoint, in a fairly central location with them weekly.
 
