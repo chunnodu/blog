@@ -4,15 +4,11 @@ Category: notes
 Tags: notes
 
 ## Next Steps: DLVR 2.0
-
-Build a listing site which becomes the premier destination for finding delivery agents, riders and delivery product and service providers
-
+Build a listing site which becomes the premier destination for finding delivery agents, riders and delivery product and service providers.
 Our customers will be businesses, organizations, individuals.
 Our delivery method will be map based on our website and also via messaging apps e.g whatsapp.
-
     
 ### 9 things we must do well
-
 1. Keep an updated listing of all delivery players(delivery agents, riders, delivery product and service providers)
 2. Verify identity of users who will be actors on our platform.
 3. Provide a way for users to add to our listing and view information without leaving messaging apps like whatsapp, telegram.

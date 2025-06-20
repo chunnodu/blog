@@ -9,7 +9,7 @@ I think recognizing when your opinion differs from the crowd is a great exercise
 - Also, specialization compounded over time is the major differentiator, not an innate capability.
 - The world of work is trending back to the old days when each person or family was essentially trading with the larger world or business environment, versus the industrialist age of working for a large enterprise and trading all your time for a salary.
 - AGI is nowhere in sight, if it means some sort of interconnected, smarter-than-human-uncontrollable superconsciousness that arises from machines.
-- Sam Altman types shilling generative AI and LLMs without showing a roadmap to fixing hallucination are borderline grifters.
+- Sam Altman types shilling generative AI and LLMs as evidence of this route to superintelligence that just needs more data and more compute and better algorithms without showing a roadmap to fixing hallucination are borderline grifters.
 - There will be another wave of pan-African consciousness & cooperation, like in the 60's but this time also trade like in the old world pre-colonization.
 - When you say blockchain in your product description I mentally tune out.
 - Donald J. Trump is absolutely hilarious, if you don't see it your political views may have distorted reality.
