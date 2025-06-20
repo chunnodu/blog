@@ -15,6 +15,7 @@ Here's this year's haul
 6. The Urgent Life - Bozoma Saint John
 7. Active Interviewing - Eric Kramer
 8. Tiny Experiments (a) - Anne-Laure Le Cunf
+9. The win without pitching Manifesto(a) - Blair Enns
 
 ### Actively Reading
 
