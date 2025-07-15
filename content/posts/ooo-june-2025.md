@@ -12,11 +12,13 @@ I saw this great thread about utilizing your OOO message to give short updates. 
 In that fashion, here’s my OOO message for the month.
 
 Two to three interesting projects I’ve been working on
+
 - retail intelligence. Read [a brief.](https://chunnodu.com/blog/retail-intelligence.html) Code [here:](https://github.com/Ajared/retailintelligence/tree/dev/backend)
 - mcp demo for google analytics reporting.
 - adding structured data to content websites using [schemaapp](https://www.schemaapp.com/) to improve leads from organic search.
 
 Recent work wins 
+
 - joined editorial board for pdma’s KHub
 - [Place data trust](https://thisisplace.org/about/) membership approved
 
