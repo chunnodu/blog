@@ -12,8 +12,6 @@ I bring resourcefulness, simplicity, innovation and strategic management to new 
 
 Forever  curious, I [write here](https://www.ajared.ng) about my research interests in data, product, management, information systems and strategy. This is a digital log. 
 
-
-
 ## Contact
 
 [Say hi](mailto:chu@chunnodu.com) if you want to talk through new product development, AI strategy or management and information systems research.
