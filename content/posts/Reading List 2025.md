@@ -21,6 +21,7 @@ Here's this year's haul
 11. Shape Up - Ryan Singer
 12. The idea in you - A.Pellew, M.Amor
 13. Data Jujitsu - DJ Patil
+14. The Forgotten Era - Max Siollun (a)
 
 
 ### Actively Reading
@@ -28,11 +29,11 @@ Here's this year's haul
 - Born Free - Steve Brown
 - Continuous Discovery Habits - Teresa Torres
 - Realtime: Making Digital China
+- Hustle Harder, Hustle Smarter - Curtis Jackson (a)
 
 ### Queued
 - Demand Side Sales - Bob Moesta
 - How to Measure Anything - Douglas Hubbard
-- The Forgotten Era - Max Siollun
 
 ### Waiting to Finish 
 1. The Heart of Our Cities, Victor Gruen
@@ -42,7 +43,6 @@ Here's this year's haul
 5. The Halo Effect(a)
 6. Just Evil Enough (the Subversive Marketing handbook) - Alistair Croll & Emily Ross
 7. Weinberg on Writing: The Fieldstone Method - Gabriel Weinberg
-
 
 
 Currently, these themes reoccur in my reading: 
