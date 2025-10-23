@@ -1,6 +1,6 @@
 Title: Reading List 2025
 Date: 2025-04-01
-Modified: 2025-06-23
+Modified: 2025-10-23
 Category: Reading
 Tags: reading
 
@@ -35,19 +35,5 @@ Here's this year's haul
 - So Good They Can't Ignore You - Cal Newport
 - The Halo Effect(a)
 
-
-Currently, these themes reoccur in my reading: 
-
-- Ideas, the mind, how stuff works
-
-- Products & Management
-
-- Information Systems
-
-- Inspirational/leadership
-
-- Design
-
-- African Literature
-
-- Christian Literature
+Currently, these themes reoccur in my reading: Ideas, the mind, how stuff works, products & management, information systems, inspirational/leadership, 
+design, african literature & history, christian literature.
