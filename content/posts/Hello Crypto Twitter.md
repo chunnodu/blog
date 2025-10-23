@@ -29,7 +29,7 @@ Here’s my investment strategy.
 
 - Monero - $100 - 5%
 
-- Gambling on stable coins - $100 - 5%
+- Gambling on meme coins - $100 - 5%
 
 **My investment thesis**
 
