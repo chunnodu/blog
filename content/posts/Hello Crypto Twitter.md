@@ -3,6 +3,8 @@ Date: 2025-10-22
 Category: notes
 Tags: notes
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m rejoining crypto twitter this week for one year to see how it goes.<br>The last time I bought crypto for speculation and not international money transfers was probably in 2017, before the crash that year. <br>Once I was back even, sold off everything and never bothered again.</p>&mdash; chu@ajaRED (@AjaredIA) <a href="https://twitter.com/AjaredIA/status/1980990182234149343?ref_src=twsrc%5Etfw">October 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Crypto was one of the largest wealth transfers of my generation, but a regret is that I was on the sidelines, even though I knew about it from 2013. 
 
 For about a year now I’ve been nursing the idea of taking a position again and with the recent crash of 10/10, there’s no better time than the present, so, Hello Crypto Twitter.
