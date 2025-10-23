@@ -23,7 +23,6 @@ Here's this year's haul
 13. Data Jujitsu - DJ Patil
 14. The Forgotten Era - Max Siollun (a)
 
-
 ### Actively Reading
 
 - Born Free - Steve Brown
@@ -32,17 +31,9 @@ Here's this year's haul
 - Hustle Harder, Hustle Smarter - Curtis Jackson (a)
 
 ### Queued
-- Demand Side Sales - Bob Moesta
-- How to Measure Anything - Douglas Hubbard
-
-### Waiting to Finish 
-1. The Heart of Our Cities, Victor Gruen
-2. Slow Productivity - Cal Newport
-3. So Good They Can't Ignore You - Cal Newport
-4. Things Hidden Since the Foundation of the World(a)
-5. The Halo Effect(a)
-6. Just Evil Enough (the Subversive Marketing handbook) - Alistair Croll & Emily Ross
-7. Weinberg on Writing: The Fieldstone Method - Gabriel Weinberg
+- Slow Productivity - Cal Newport
+- So Good They Can't Ignore You - Cal Newport
+- The Halo Effect(a)
 
 
 Currently, these themes reoccur in my reading: 
