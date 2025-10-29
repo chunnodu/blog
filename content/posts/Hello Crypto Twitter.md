@@ -35,7 +35,7 @@ Here’s my investment strategy.
 
 - Holding  BTC and stable coin represents my belief that crypto is here to stay, and also some risk management. Besides theft, this is a way to safeguard my portfolio from going to zero.
 
-- Holding Solana because it seems like the Ethereum of this era: ready for application builders. \
+- Holding Solana because it seems like the Ethereum of this era: ready for application builders.
 	a) I’ve seen superteamNG folks hard at work at sterling bank co-working space in Abuja several times.
 	b) a lot of activity and building on this chain, very similar to ethereum last decade. 
 	c) Nikita being an advisor is a strong signal.
