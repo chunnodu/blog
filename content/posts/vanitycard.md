@@ -1,7 +1,7 @@
 Title: Vanity Card
 Date: 2023-11-24
 Category: vanitycard
-Tags: #Ship30for30
+Tags: #Ship30for30, chunitycard
 
 Do thoughts need to be profound to be expressed? What if the real gems are just waiting their turn beneath the surface of all the other things our mind wants to get out?
 
@@ -12,3 +12,5 @@ Cycling through ideas for today I got stuck on finding something remarkable, for
 [Chuck Lorre's vanity cards](http://chucklorre.com/) - random blurbs that flash at the end of his sitcoms - are a good example of expression without it having to mean anything. 
 
 Instead of trying to write something "good", this is today's vanity card - a friendly reminder to show up and get a rep of writing in regardless, while waiting for that elusive inspiration. Maybe also not to spend the time planned for writing fixing the layout of my blog.
+
+Update: I've decided to call my own vanity cards "chunitycards", as a creative license to keep expressing random thoughts.

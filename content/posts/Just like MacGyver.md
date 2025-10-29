@@ -4,7 +4,7 @@ Tags: chunitycard
 
 I like scented candles, so it always annoyed me when some of the ones I bought would burn in a funny way and leave a lot of wax after the wicks were done. I knew you could melt the candles and buy new wicks, so I didn’t throw them away, but also hadn’t bothered to take any further action. 
 
-Until last month, when it occurred to me while looking at the melting candle on at my desk, that the wood stick of the Costco ice cream bar I just finished could make a perfect wick replacement. Even better, burning this wick produced the oddly pleasant cracklinh sound of burning wood, enhancing typically cheaper candles that didn’t come with that type of wick
+Until last month, when it occurred to me while looking at the melting candle on at my desk, that the wood stick of the Costco ice cream bar I just finished could make a perfect wick replacement. Even better, burning this wick produced the oddly pleasant crackling sound of burning wood, enhancing typically cheaper candles that didn’t come with that type of wick
 
 Today, I melted those leftover candles, and it turned out I had enough wax for a small, medium and large size. I repurposed an ice-cream stick-wick, cutting it into equal pieces, and have started reaping the rewards of my labor from this evening.
 
