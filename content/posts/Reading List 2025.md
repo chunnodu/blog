@@ -23,11 +23,11 @@ Here's this year's haul
 13. Data Jujitsu - DJ Patil
 14. The Forgotten Era - Max Siollun (a)
 15. Hustle Harder, Hustle Smarter - Curtis Jackson (a)
+16. Born Free - Steve Brown
 
 ### Actively Reading
 
 - Slow Productivity - Cal Newport
-- Born Free - Steve Brown
 - Continuous Discovery Habits - Teresa Torres
 - Realtime: Making Digital China
 
