@@ -15,7 +15,7 @@ We’ll give cash prizes for the top 3 mappers, and also shortlist the top 10-20
 Mapping Mammy is possible in 3 easy steps.
 
 1. Join the [telegram channel](https://t.me/+Dd2Kd1shy7lkZjMx) which has these resources.
-	- link to the [landing page](retailytics.ajared.ng)
+	- link to the [landing page](www.retailytics.ajared.ng)
 	- demo video for using the app
-2. Sign up to use the application at [retailytics.ajared.ng](https://retailytics.ajared.ng)
+2. Sign up to use the application at [www.retailytics.ajared.ng](https://www.retailytics.ajared.ng)
 3. When you are verified, start mapping stores in Mammy Market with Retailytics.
