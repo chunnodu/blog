@@ -22,6 +22,9 @@ This contribution, common fund management and payout system will be orchestrated
 
 *A variation of this pool for a long term goal could also be set up.* *A specific use case I had thought of was friends “getting a trip out of the group chat.” In the time since I started ideating, CashApp has launched a “Pool” feature, meaning this was a no brainer.* 
 
+![Esusu Prototype showing rotation schedule and contribution status]({filename}/images/esusu-prototype.png)
+*Screenshot showing the rotation schedule and contribution status. Users can clearly see when it's their turn to receive the lump sum.* 
+
 
 ## Investment: Aping Trades
 One of the barriers for people taking financial action is lack of knowledge of what assets to select. More people would trade if they could copy trades of people they trust, but in ratios they could handle. 
@@ -29,3 +32,9 @@ One of the barriers for people taking financial action is lack of knowledge of w
 For example, aping Nancy Pelosi’s portfolio in a fractional manner. 
 
 Providing an an easy way to do this for equities and crypto in Cashapp’s sleek minimalist UI, would be really nifty.
+
+![Investment Prototype showing copy trading interface]({filename}/images/invest-prototype.png)
+*Screenshot showing the copy-trading interface. Users can easily allocate funds to copy the portfolio of top investors.*
+<br>
+<h2>Prototype</h2>
+<iframe src="../prototypes/esusu/index.html" width="375" height="812" style="border:none; display:block; margin: 0 auto; border-radius: 40px; box-shadow: 0 20px 50px rgba(0,0,0,0.5);"></iframe>

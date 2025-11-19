@@ -38,8 +38,11 @@ DEFAULT_PAGINATION = 5
 
 RELATIVE_URLS = True
 
-STATIC_PATHS = ['images', 'extra/CNAME']
+STATIC_PATHS = ['images', 'extra/CNAME', 'prototypes']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
+
+ARTICLE_EXCLUDES = ['prototypes']
+PAGE_EXCLUDES = ['prototypes']
 
 DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'authors', 'archives']
 
