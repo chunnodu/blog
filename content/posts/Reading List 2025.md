@@ -1,6 +1,6 @@
 Title: Reading List 2025
 Date: 2025-04-01
-Modified: 2025-10-23
+Modified: 2026-01-01
 Category: Reading
 Tags: reading
 
@@ -24,18 +24,8 @@ Here's this year's haul
 14. The Forgotten Era - Max Siollun (a)
 15. Hustle Harder, Hustle Smarter - Curtis Jackson (a)
 16. Born Free - Steve Brown
-
-### Actively Reading
-
-- Slow Productivity - Cal Newport
-- Continuous Discovery Habits - Teresa Torres
-- Realtime: Making Digital China
-
-
-### Queued
-
-- So Good They Can't Ignore You - Cal Newport
-- The Halo Effect(a)
+17. Slow Productivity - Cal Newport
+18. The Halo Effect(a)
 
 Currently, these themes reoccur in my reading: Ideas, the mind, how stuff works, products & management, information systems, inspirational/leadership, 
 design, african literature & history, christian literature.
