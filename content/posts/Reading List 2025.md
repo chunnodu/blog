@@ -26,6 +26,9 @@ Here's this year's haul
 16. Born Free - Steve Brown
 17. Slow Productivity - Cal Newport
 18. The Halo Effect(a)
+19. The Great Transformation (a) - Chen Jian and Oodd Arne Westad
+20. The 50th Law (a) - 50 Cent and Robert Greene
+
 
 Currently, these themes reoccur in my reading: Ideas, the mind, how stuff works, products & management, information systems, inspirational/leadership, 
 design, african literature & history, christian literature.
