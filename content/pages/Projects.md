@@ -24,9 +24,7 @@ AI-powered deck analysis platform offering intelligent feedback and insights to 
 
 ## [dLVR Logistics](https://www.dlvr.ng) · 2015
 
-At the end of 2015 I co-founded a technology company called DLVR Logistics. We were probably too early to the market, but it was an early attempt at delivery and logistics technology for Africa's last-mile.
-
-In 2016, we placed [1st out of over 200 teams](https://www.worldbank.org/en/news/press-release/2016/07/08/world-bank-group-wharton-global-development-finance-innovation-competition-ideas) in the World Bank Ideas for Action competition.
+At the end of 2015 I co-founded a technology company called DLVR Logistics. In 2016, we placed [1st out of over 200 teams](https://www.worldbank.org/en/news/press-release/2016/07/08/world-bank-group-wharton-global-development-finance-innovation-competition-ideas) in the World Bank Ideas for Action competition. We were probably too early to the market, but it was an early attempt at solving delivery and logistics with technology at Africa's last-mile.
 
 ## [ajaRED Ltd](https://www.ajared.ng) · 2014
 
