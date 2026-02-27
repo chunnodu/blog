@@ -14,26 +14,8 @@ Forever curious, I write about my research and interests in <span style="color:#
 
 ## Contact
 
-[Shoot an email](mailto:chu@chunnodu.com) or [reach out on Telegram](https://t.me/chunnodu). If you need help thinking through a new product, business model or information systems design, [schedule a consultation](https://calendly.com/chunnodu/small-business-consultation).
+[Shoot an email](mailto:chu@chunnodu.com) or [reach out on Telegram](https://t.me/chunnodu). If you need help thinking through a new product, business model or information systems design: <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet"><script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script><script>(function() { var target = document.currentScript; window.addEventListener('load', function() { calendar.schedulingButton.load({ url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ1slLydzu8Y-xhoCnGyGqBwZXWeAYZoWsNmTenW84fwg_D4agu0f5koxlhakcc-QWMXTxvp13wn?gv=true', color: '#058c8c', label: 'Book an appointment', target, }); }); })();</script>
 
 I also run a monthly Mind Mapping class on Telegram — live session every last Saturday. [Join here](https://t.me/ajareducation).
-
-<!-- Google Calendar Appointment Scheduling begin -->
-<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
-<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
-<script>
-(function() {
-  var target = document.currentScript;
-  window.addEventListener('load', function() {
-    calendar.schedulingButton.load({
-      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ1slLydzu8Y-xhoCnGyGqBwZXWeAYZoWsNmTenW84fwg_D4agu0f5koxlhakcc-QWMXTxvp13wn?gv=true',
-      color: '#058c8c',
-      label: 'Book an appointment',
-      target,
-    });
-  });
-})();
-</script>
-<!-- end Google Calendar Appointment Scheduling -->
 
 specialties: strategy, market research, business models, ai product development, geospatial, retail intelligence, store technology, systems engineering, point of sale, data integration, analytics, reporting, dashboards.
