@@ -1,5 +1,6 @@
 Title: Contact
 Date: 2021-03-01
+Status: hidden
 URL: ../
 Save_as: ./contact.html
 

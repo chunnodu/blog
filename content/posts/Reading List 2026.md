@@ -24,3 +24,7 @@ Tags: reading
 
 - Pierce the Design Fog - Dianna Deeney
 - See you at the Top - Zig Ziglar
+
+### Read
+
+- God is a Matchmaker - Derek and Ruth Prince

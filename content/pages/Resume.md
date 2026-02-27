@@ -8,7 +8,7 @@ Status: hidden
 - **Data Analytics Consultant**  _Top 10 US Market Research Company_, 2017 - 2018
 - **Spatial Business Intelligence Manager**  _GIS Research Center_, 2016 - 2017 
 - **Business Data Analyst**  _Mortgage-backed Securitizer_, 2015
-- **Information Architect** at [Ajared](https://www.ajared.ng), 2013 - 2016
+- **Information Architect** at [ajaRED](https://www.ajared.ng), 2013 - 2016
 - **Business Research Analyst**  _Innovation Consulting Firm_, 2011 - 2013
 
 ##### Education

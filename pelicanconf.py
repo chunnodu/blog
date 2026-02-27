@@ -23,7 +23,7 @@ SUMMARY_MAX_LENGTH = 15
 # Blogroll
 LINKS = (('Blog', 'https://chunnodu.com/tag/reading.html'),
          ('Top Skills', 'https://secure.plum.io/p/o93Pr7IyMGN98jHG9suN5A'),
-         ('Projects', './output/projects.html')
+         ('Projects', 'https://chunnodu.com/projects.html')
          )
 
 # Social widget
@@ -81,4 +81,20 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+
+PLUGINS = ['sitemap']
+
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.6,
+        'indexes': 0.5,
+        'pages': 0.7,
+    },
+    'changefreqs': {
+        'articles': 'monthly',
+        'indexes': 'daily',
+        'pages': 'monthly',
+    }
+}
 

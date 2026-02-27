@@ -1,31 +1,24 @@
 Title: projects
 Date: 2020-08-28 21:38
 
+A selection of ventures and products I've built or contributed to — from logistics infrastructure to data research and community work.
 
-2025
+## [ajaRED Ltd](https://www.ajared.ng) · 2014
 
-# Retailytics
-I joined the retail intelligence collective - our first project is Retailytics.
+Building data products and information systems for enterprise clients, with research in product development, knowledge graphs, and applied AI.
 
-## [ajaRED Research Inc](http://www.ajared.ng)
-Building data products and information systems, and sharing learnings in the field of product development and management.
+## [dLVR Logistics](https://www.dlvr.ng) · 2015
 
-I'm currently exploring knowledge graph based approaches to Retrieval Augmented Generation for these enterprise use cases, building on my earlier research on [personal knowledge graphs](https://github.com/Ajared/pkg/blob/main/personal%20knowledge%20graphs.pdf).
+Last-mile delivery and logistics technology platform co-founded in 2015 to modernise e-commerce delivery across Nigeria and Africa.
 
-- Customer Support Knowledge base
-- Enterprise Knowledge Assistants aka "chat-your-documents"
-- Workflow Automation 
-- Contextual Help via semantic search
- 
+## [Friends of Maitama Hills](https://friendsofmaitamahills.org) · 2024
 
-## [dLVR Logistics: Last-Mile Logistics in Africa](http://www.dlvr.ng)
-At the end of 2015 I co-founded a technology company called [DLVR Logistics](https://www.dlvr.ng). We were probably too early to the market, but it e delivery and logistics technology
+Community advocacy and conservation organisation dedicated to protecting and celebrating the natural and cultural heritage of Maitama Hills, Abuja.
 
-##### **Sense of Self**: Natural Language Processing and Text Analysis of Twitter Posts.
+## [DeckSense](https://decksense.ai) · 2025
 
-##### [**Ship 30 for 30**]({filename}/posts/Ship30for30.md)
+AI-powered deck analysis platform offering intelligent feedback and insights to help presenters craft clearer, more compelling pitch decks.
 
-##### **Mapping Cities of Interest**
+## [ajaRED Research Inc — Canada](https://www.ajared.ca) · 2025
 
-##### **Building on messaging APIS**: Telegram and Whatsapp Business
-
+ajaRED's Canadian operations, exploring knowledge graph-based retrieval-augmented generation, enterprise AI assistants, and semantic search.

@@ -8,13 +8,16 @@ Save_as: index.html
 
 I'm a product development leader and enterprise product manager with experience delivering valuable products to thousands of users and millions of customers across retail, logistics, payments and ecommerce industries from startups to the fortune 500. 
 
-I bring resourcefulness, simplicity, innovation and strategic management to new product development. .
+I bring resourcefulness, simplicity, innovation and strategic management to new product development.
 
 Forever  curious, I [write here](https://www.ajared.ng) about my research interests in data, product, management, information systems and strategy. This is a digital log. 
 
 ## Contact
 
-[Shoot an email](mailto:chu@chunnodu.com) or find time on my calendar to talk through new product development, AI strategy or management and information systems research.
+[Shoot an email](mailto:chu@chunnodu.com) or [reach out on Telegram](https://t.me/chunnodu). If you need help thinking through a new product, business model or information systems design, [schedule a consultation](https://calendly.com/chunnodu/small-business-consultation).
+
+I also run a monthly Mind Mapping class on Telegram — live session every last Saturday. [Join here](https://t.me/ajareducation).
+
 <!-- Google Calendar Appointment Scheduling begin -->
 <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
 <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
@@ -24,7 +27,7 @@ Forever  curious, I [write here](https://www.ajared.ng) about my research intere
   window.addEventListener('load', function() {
     calendar.schedulingButton.load({
       url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ1slLydzu8Y-xhoCnGyGqBwZXWeAYZoWsNmTenW84fwg_D4agu0f5koxlhakcc-QWMXTxvp13wn?gv=true',
-      color: '#039BE5',
+      color: '#058c8c',
       label: 'Book an appointment',
       target,
     });
