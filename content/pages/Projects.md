@@ -26,6 +26,8 @@ AI-powered deck analysis platform offering intelligent feedback and insights to 
 
 At the end of 2015 I co-founded a technology company called DLVR Logistics. We were probably too early to the market, but it was an early attempt at delivery and logistics technology for Africa's last-mile.
 
+In 2016, we placed [1st out of over 200 teams](https://www.worldbank.org/en/news/press-release/2016/07/08/world-bank-group-wharton-global-development-finance-innovation-competition-ideas) in the World Bank Ideas for Action competition.
+
 ## [ajaRED Ltd](https://www.ajared.ng) · 2014
 
 Building data products and information systems, and sharing learnings in the field of product development and management.
