@@ -32,16 +32,16 @@ Building data products and information systems, and sharing learnings in the fie
 
 ---
 
-### Side Projects
+## Side Projects
 
-####Sense of Self: An Analysis of Twitter Posts using NLP
+### Sense of Self: An Analysis of Twitter Posts using NLP
 
-####[Ship 30 for 30]({filename}/posts/Ship30for30.md)
+### [Ship 30 for 30]({filename}/posts/Ship30for30.md)
 
-####Mapping Cities of Interest
+### Mapping Cities of Interest
 
-####Building on messaging APIs: Telegram and Whatsapp Business
+### Building on messaging APIs: Telegram and Whatsapp Business
 
-####[Friends of Maitama Hills](https://friendsofmaitamahills.org)
+### [Friends of Maitama Hills](https://friendsofmaitamahills.org)
 
 Community advocacy and conservation organisation dedicated to protecting and celebrating the natural and cultural heritage of Maitama Hills, Abuja.
