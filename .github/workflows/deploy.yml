@@ -1,0 +1,37 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install pelican-sitemap ghp-import
+
+      - name: Build site
+        run: pelican content -s publishconf.py
+
+      - name: Deploy to gh-pages
+        run: |
+          git config user.email "chuknnodu@gmail.com"
+          git config user.name "Chu Nnodu"
+          ghp-import -m "Deploy site [skip ci]" -b gh-pages output
+          git push origin gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
