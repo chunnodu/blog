@@ -14,7 +14,7 @@ I'm currently exploring knowledge graph based approaches to Retrieval Augmented 
 - Workflow Automation
 - Contextual Help via semantic search
 
-## Retailytics · 2025
+## [Retailytics](https://retailytics.ajared.ng) · 2025
 
 I joined the retail intelligence collective — our first project is Retailytics.
 
