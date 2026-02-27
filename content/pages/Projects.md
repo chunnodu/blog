@@ -7,13 +7,6 @@ A selection of ventures and products I've built or contributed to — from logis
 
 Building data products and information systems, and sharing learnings in the field of product development and management.
 
-I'm currently exploring knowledge graph based approaches to Retrieval Augmented Generation for these enterprise use cases, building on my earlier research on [personal knowledge graphs](https://github.com/Ajared/pkg/blob/main/personal%20knowledge%20graphs.pdf).
-
-- Customer Support Knowledge base
-- Enterprise Knowledge Assistants aka "chat-your-documents"
-- Workflow Automation
-- Contextual Help via semantic search
-
 ## [dLVR Logistics](https://www.dlvr.ng) · 2015
 
 At the end of 2015 I co-founded a technology company called DLVR Logistics. We were probably too early to the market, but it was an early attempt at delivery and logistics technology for Africa's last-mile.
@@ -28,7 +21,14 @@ AI-powered deck analysis platform offering intelligent feedback and insights to 
 
 ## [ajaRED Research Inc — Canada](https://www.ajared.ca) · 2025
 
-ajaRED's Canadian operations, exploring knowledge graph-based retrieval-augmented generation, enterprise AI assistants, and semantic search.
+Building data products and information systems, and sharing learnings in the field of product development and management.
+
+I'm currently exploring knowledge graph based approaches to Retrieval Augmented Generation for these enterprise use cases, building on my earlier research on [personal knowledge graphs](https://github.com/Ajared/pkg/blob/main/personal%20knowledge%20graphs.pdf).
+
+- Customer Support Knowledge base
+- Enterprise Knowledge Assistants aka "chat-your-documents"
+- Workflow Automation
+- Contextual Help via semantic search
 
 ## Retailytics · 2025
 
