@@ -32,6 +32,6 @@ jobs:
           git config user.email "chuknnodu@gmail.com"
           git config user.name "Chu Nnodu"
           ghp-import -m "Deploy site [skip ci]" -b gh-pages output
-          git push origin gh-pages
+          git push origin gh-pages --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
