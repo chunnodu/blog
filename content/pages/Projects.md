@@ -3,10 +3,6 @@ Date: 2020-08-28 21:38
 
 A selection of ventures and products I've built or contributed to — from logistics infrastructure to data research and community work.
 
-## Retailytics · 2025
-
-I joined the retail intelligence collective — our first project is Retailytics.
-
 ## [ajaRED Research Inc — Canada](https://www.ajared.ca) · 2025
 
 Building data products and information systems, and sharing learnings in the field of product development and management.
@@ -17,6 +13,10 @@ I'm currently exploring knowledge graph based approaches to Retrieval Augmented 
 - Enterprise Knowledge Assistants aka "chat-your-documents"
 - Workflow Automation
 - Contextual Help via semantic search
+
+## Retailytics · 2025
+
+I joined the retail intelligence collective — our first project is Retailytics.
 
 ## [DeckSense](https://decksense.ai) · 2025
 
