@@ -1,7 +1,7 @@
 Title: projects
 Date: 2020-08-28 21:38
 
-A selection of ventures and products I've built or contributed to — from logistics infrastructure to data research and community work.
+Ventures and products I've built or contributed to that *still* have a digital trail.
 
 ## [ajaRED Research Inc — Canada](https://www.ajared.ca) · 2025
 
